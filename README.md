@@ -1,5 +1,5 @@
 # ACNL_Hacks
-ACNL Hacks compiled all in one spot
+ACNL Hacks compiled all into one spot
 
 # Sources:
 https://gbatemp.net/threads/release-animal-crossing-new-leaf-multi-cheat-ntr-plugin.428522/
