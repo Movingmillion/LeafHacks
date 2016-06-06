@@ -1,3 +1,6 @@
 Favorites
-Nothing – 7FFE
-Pattern – 009D
+7FFE  Nothing
+009D  Pattern
+20A7  100 Bells
+2112	99,000 Bells
+2284	100 turnips
