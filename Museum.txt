@@ -1,0 +1,370 @@
+Museum
+2286	common butterfly
+2287	yellow butterfly
+2288	tiger butterfly
+2289	peacock butterfly
+228a	monarch butterfly
+228b	emperor butterfly
+228c	agrias butterfly
+228d	Raja B. butterfly
+228e	birdwing butterfly
+228f	moth
+2290	oak silk moth
+2291	honeybee
+2292	bee
+2293	long locust
+2294	migratory locust
+2295	rice grasshopper
+2296	mantis
+2297	orchid mantis
+2298	brown cicada
+2299	robust cicada
+229a	giant cicada
+229b	walker cicada
+229c	evening cicada
+229d	cicada shell
+229e	lantern fly
+229f	red dragonfly
+22a0	darner dragonfly
+22a1	banded dragonfly
+22a2	petaltail dragonfly
+22a3	ant
+22a4	pondskater
+22a5	diving beetle
+22a6	stinkbug
+22a7	snail
+22a8	cricket
+22a9	bell cricket
+22aa	grasshopper
+22ab	mole cricket
+22ac	walking leaf
+22ad	walking stick
+22ae	bagworm
+22af	ladybug
+22b0	violin beetle
+22b1	longhorn beetle
+22b2	tiger beetle
+22b3	dung beetle
+22b4	wharf roach
+22b5	hermit crab
+22b6	firefly
+22b7	fruit beetle
+22b8	scarab beetle
+22b9	jewel beetle
+22ba	miyama stag
+22bb	saw stag
+22bc	giant stag
+22bd	rainbow stag
+22be	cyclommatus stag
+22bf	golden stag
+22c0	horned dynastid
+22c1	horned atlas
+22c2	horned elephant
+22c3	horned hercules
+22c4	goliath beetle
+22c5	flea
+22c6	pill bug
+22c7	mosquito
+22c8	fly
+22c9	house centipede
+22ca	centipede
+22cb	spider
+22cc	tarantula
+22cd	scorpion
+22ce	snowflake
+22cf	red feather
+22d0	blue feather
+22d1	green feather
+22d2	yellow feather
+22d3	purple feather
+22d4	white feather
+22d5	pink feather
+22d6	rainbow feather
+22d7	bitterling
+22d8	pale chub
+22d9	crucian carp
+22da	dace
+22db	barbel steed
+22dc	carp
+22dd	koi
+22de	goldfish
+22df	pop-eyed goldfish
+22e0	killifish
+22e1	crawfish
+22e2	soft-shelled turtle
+22e3	tadpole
+22e4	frog
+22e5	freshwater goby
+22e6	loach
+22e7	catfish
+22e8	eel
+22e9	giant snakehead
+22ea	bluegill
+22eb	yellow perch
+22ec	black bass
+22ed	pike
+22ee	pond smelt
+22ef	sweetfish
+22f0	cherry salmon
+22f1	char
+22f2	rainbow trout
+22f3	stringfish
+22f4	salmon
+22f5	king salmon
+22f6	mitten crab
+22f7	guppy
+22f8	nibble fish
+22f9	angelfish
+22fa	neon tetra
+22fb	piranha
+22fc	arowana
+22fd	dorado
+22fe	gar
+22ff	arapaima
+2300	saddled bichir
+2301	sea butterfly
+2302	sea horse
+2303	clown fish
+2304	surgeonfish
+2305	butterfly fish
+2306	Napoleonfish
+2307	zebra turkeyfish
+2308	blowfish
+2309	puffer fish
+230a	horse mackerel
+230b	barred knifejaw
+230c	sea bass
+230d	red snapper
+230e	dab
+230f	olive flounder
+2310	squid
+2311	moray eel
+2312	ribbon eel
+2313	football fish
+2314	tuna
+2315	blue marlin
+2316	giant trevally
+2317	ray
+2318	ocean sunfish
+2319	hammerhead shark
+231a	shark
+231b	saw shark
+231c	whale shark
+231d	oarfish
+231e	coelacanth
+231f	empty can
+2320	boot
+2321	old tire
+2322	water egg
+2323	seaweed
+2324	sea grapes
+2325	sea urchin
+2326	acorn barnacle
+2327	oyster
+2328	turban shell
+2329	abalone
+232a	ear shell
+232b	clam
+232c	pearl oyster
+232d	scallop
+232e	sea anemone
+232f	sea star
+2330	sea cucumber
+2331	sea slug
+2332	flatworm
+2333	mantis shrimp
+2334	sweet shrimp
+2335	tiger prawn
+2336	spiny lobster
+2337	lobster
+2338	snow crab
+2339	horsehair crab
+233a	red king crab
+233b	spider crab
+233c	octopus
+233d	spotted garden eel
+233e	chambered nautilus
+233f	horseshoe crab
+2340	giant isopod
+2341	deep-sea egg
+2e32	dynamic painting
+2e33	solemn painting
+2e34	quaint painting
+2e35	basic painting
+2e36	famous painting
+2e37	perfect painting
+2e38	amazing painting
+2e39	nice painting
+2e3a	moving painting
+2e3b	common painting
+2e3c	flowery painting
+2e3d	warm painting
+2e3e	jolly painting
+2e3f	fine painting
+2e40	scary painting
+2e41	proper painting
+2e42	neutral painting
+2e43	worthy painting
+2e44	calm painting
+2e45	moody painting
+2e46	wistful painting
+2e47	serene painting
+2e48	scenic painting
+2e49	wild painting
+2e4a	graceful painting
+2e4b	beautiful statue
+2e4c	valiant statue
+2e4d	gallant statue
+2e4e	robust statue
+2e4f	great statue
+2e50	mystic statue
+2e51	ancient statue
+2e52	motherly statue
+// 2e53	2e32	fake
+// 2e54	2e33	fake
+// 2e55	2e34	fake
+// 2e56	2e35	fake
+// 2e57	2e36	fake
+// 2e58	2e38	fake
+// 2e59	2e3a	fake
+// 2e5a	2e3e	fake
+// 2e5b	2e40	fake
+// 2e5c	2e42	fake
+// 2e5d	2e46	fake
+// 2e5e	2e47	fake
+// 2e5f	2e49	fake
+// 2e60	2e4a	fake
+// 2e61	2e4b	fake
+// 2e62	2e4c	fake
+// 2e63	2e4d	fake
+// 2e64	2e4e	fake
+// 2e65	2e4f	fake
+// 2e66	2e50	fake
+// 2e67	2e51	fake
+// 2e68	2e52	fake
+// 2e69	2e32	???1
+// 2e6a	2e33	???1
+// 2e6b	2e34	???1
+// 2e6c	2e35	???1
+// 2e6d	2e36	???1
+// 2e6e	2e37	???1
+// 2e6f	2e38	???1
+// 2e70	2e39	???1
+// 2e71	2e3a	???1
+// 2e72	2e3b	???1
+// 2e73	2e3c	???1
+// 2e74	2e3d	???1
+// 2e75	2e3e	???1
+// 2e76	2e3f	???1
+// 2e77	2e40	???1
+// 2e78	2e41	???1
+// 2e79	2e42	???1
+// 2e7a	2e43	???1
+// 2e7b	2e44	???1
+// 2e7c	2e45	???1
+// 2e7d	2e46	???1
+// 2e7e	2e47	???1
+// 2e7f	2e48	???1
+// 2e80	2e49	???1
+// 2e81	2e4a	???1
+// 2e82	2e32	fake ???1
+// 2e83	2e33	fake ???1
+// 2e84	2e34	fake ???1
+// 2e85	2e35	fake ???1
+// 2e86	2e36	fake ???1
+// 2e87	2e38	fake ???1
+// 2e88	2e3a	fake ???1
+// 2e89	2e3e	fake ???1
+// 2e8a	2e40	fake ???1
+// 2e8b	2e42	fake ???1
+// 2e8c	2e46	fake ???1
+// 2e8d	2e47	fake ???1
+// 2e8e	2e49	fake ???1
+// 2e8f	2e4a	fake ???1
+2e90	amber
+2e91	ammonite
+2e92	coprolite
+2e93	dinosaur egg
+2e94	fern fossil
+2e95	dinosaur track
+2e96	archaeopteryx
+2e97	Peking man
+2e98	shark tooth
+2e99	trilobite
+2e9a	T. rex skull
+2e9b	T. rex torso
+2e9c	T. rex tail
+2e9d	tricera skull
+2e9e	tricera torso
+2e9f	tricera tail
+2ea0	mammoth skull
+2ea1	mammoth torso
+2ea2	ankylo skull
+2ea3	ankylo torso
+2ea4	ankylo tail
+2ea5	apato skull
+2ea6	apato torso
+2ea7	apato tail
+2ea8	dimetrodon skull
+2ea9	dimetrodon torso
+2eaa	dimetrodon tail
+2eab	iguanodon skull
+2eac	iguanodon torso
+2ead	iguanodon tail
+2eae	sabertooth skull
+2eaf	sabertooth torso
+2eb0	pachysaurus skull
+2eb1	pachysaurus torso
+2eb2	pachysaurus tail
+2eb3	parasaur skull
+2eb4	parasaur torso
+2eb5	parasaur tail
+2eb6	diplo skull
+2eb7	diplo neck
+2eb8	diplo chest
+2eb9	diplo hip
+2eba	diplo tail
+2ebb	plesio skull
+2ebc	plesio neck
+2ebd	plesio torso
+2ebe	stego skull
+2ebf	stego torso
+2ec0	stego tail
+2ec1	ptera skull
+2ec2	ptera left wing
+2ec3	ptera right wing
+2ec4	ichthyo skull
+2ec5	ichthyo torso
+2ec6	raptor skull
+2ec7	raptor torso
+2ec8	styraco skull
+2ec9	styraco torso
+2eca	styraco tail
+2ecb	spino skull
+2ecc	spino torso
+2ecd	spino tail
+2ece	megacero skull
+2ecf	megacero torso
+2ed0	megacero tail
+2ed1	archelon skull
+2ed2	archelon torso
+2ed3	T. rex model
+2ed4	tricera model
+2ed5	mammoth model
+2ed6	ankylo model
+2ed7	apato model
+2ed8	dimetrodon model
+2ed9	iguanodon model
+2eda	sabertooth model
+2edb	pachysaurus model
+2edc	parasaur model
+2edd	diplo model
+2ede	plesio model
+2edf	stego model
+2ee0	ptera model
+2ee1	ichthyo model
+2ee2	raptor model
+2ee3	styraco model
+2ee4	spino model
+2ee5	megacero model
+2ee6	archelon model
