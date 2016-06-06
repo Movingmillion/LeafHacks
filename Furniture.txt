@@ -1,0 +1,1449 @@
+Furniture
+2935	exotic bed
+2936	exotic bureau
+2937	exotic wardrobe
+2938	exotic bench
+2939	exotic chair
+293a	exotic table
+293b	exotic end table
+293c	exotic lamp
+293d	exotic screen
+293e	exotic chest
+293f	exotic wall shelf
+2940	ranch bed
+2941	ranch dresser
+2942	ranch wardrobe
+2943	ranch couch
+2944	ranch armchair
+2945	ranch chair
+2946	ranch table
+2947	ranch tea table
+2948	ranch bookcase
+2949	ranch hutch
+294a	ranch wall rack
+294b	classic bed
+294c	classic vanity
+294d	classic wardrobe
+294e	classic chair
+294f	classic sofa
+2950	classic table
+2951	classic bookcase
+2952	classic buffet
+2953	classic desk
+2954	classic clock
+2955	classic wall shelf
+2956	regal bed
+2957	regal dresser
+2958	regal armoire
+2959	regal chair
+295a	regal sofa
+295b	regal table
+295c	regal lamp
+295d	regal clock
+295e	regal bookcase
+295f	regal vanity
+2960	regal wall lamp
+2961	blue bed
+2962	blue bureau
+2963	blue wardrobe
+2964	blue chair
+2965	blue bench
+2966	blue table
+2967	blue bookcase
+2968	blue cabinet
+2969	blue clock
+296a	blue dresser
+296b	blue wall shelf
+296c	cabana bed
+296d	cabana dresser
+296e	cabana wardrobe
+296f	cabana chair
+2970	cabana armchair
+2971	cabana table
+2972	cabana lamp
+2973	cabana bookcase
+2974	cabana vanity
+2975	cabana screen
+2976	cabana wall radio
+2977	green bed
+2978	green dresser
+2979	green wardrobe
+297a	green chair
+297b	green bench
+297c	green table
+297d	green desk
+297e	green lamp
+297f	green counter
+2980	green pantry
+2981	green wall clock
+2982	cabin bed
+2983	cabin dresser
+2984	cabin wardrobe
+2985	cabin chair
+2986	cabin armchair
+2987	cabin couch
+2988	cabin table
+2989	cabin low table
+298a	cabin bookcase
+298b	cabin clock
+298c	cabin wall clock
+298d	modern bed
+298e	modern dresser
+298f	modern wardrobe
+2990	modern chair
+2991	modern sofa
+2992	modern end table
+2993	modern desk
+2994	modern table
+2995	modern cabinet
+2996	modern lamp
+2997	modern wall clock
+2998	kiddie bed
+2999	kiddie dresser
+299a	kiddie wardrobe
+299b	kiddie couch
+299c	kiddie chair
+299d	kiddie table
+299e	kiddie bureau
+299f	kiddie bookcase
+29a0	kiddie clock
+29a1	kiddie stereo
+29a2	kiddie wall clock
+29a3	lovely bed
+29a4	lovely dresser
+29a5	lovely armoire
+29a6	lovely chair
+29a7	lovely love seat
+29a8	lovely end table
+29a9	lovely table
+29aa	lovely vanity
+29ab	lovely kitchen
+29ac	lovely lamp
+29ad	lovely wall clock
+29ae	robo-bed
+29af	robo-dresser
+29b0	robo-closet
+29b1	robo-sofa
+29b2	robo-chair
+29b3	robo-table
+29b4	robo-stereo
+29b5	robo-TV
+29b6	robo-clock
+29b7	robo-lamp
+29b8	robo-wall clock
+29b9	polka-dot bed
+29ba	polka-dot dresser
+29bb	polka-dot closet
+29bc	polka-dot chair
+29bd	polka-dot sofa
+29be	polka-dot table
+29bf	polka-dot lamp
+29c0	polka-dot stool
+29c1	polka-dot low table
+29c2	polka-dot TV
+29c3	polka-dot clock
+29c4	snowman bed
+29c5	snowman dresser
+29c6	snowman wardrobe
+29c7	snowman chair
+29c8	snowman sofa
+29c9	snowman table
+29ca	snowman fridge
+29cb	snowman TV
+29cc	snowman clock
+29cd	snowman lamp
+29ce	snowman vanity
+29cf	mush bed
+29d0	mush dresser
+29d1	mush closet
+29d2	mush chair
+29d3	mush stool
+29d4	mush table
+29d5	mush end table
+29d6	mush lamp
+29d7	mush wall lamp
+29d8	mush TV
+29d9	mush hanger
+29da	Pavé bed
+29db	Pavé chest
+29dc	Pavé closet
+29dd	Pavé sofa
+29de	Pavé chair
+29df	Pavé table
+29e0	Pavé end table
+29e1	Pavé bookshelf
+29e2	Pavé bureau
+29e3	Pavé lamp
+29e4	Pavé clock
+29e5	egg bed
+29e6	egg dresser
+29e7	egg wardrobe
+29e8	egg chair
+29e9	egg bench
+29ea	egg table
+29eb	egg stereo
+29ec	egg toy set
+29ed	egg clock
+29ee	egg lamp
+29ef	egg TV
+29f0	spooky bed
+29f1	spooky dresser
+29f2	spooky wardrobe
+29f3	spooky sofa
+29f4	spooky chair
+29f5	spooky table
+29f6	spooky vanity
+29f7	spooky bookcase
+29f8	spooky clock
+29f9	spooky lamp
+29fa	spooky wall lamp
+29fb	harvest bed
+29fc	harvest dresser
+29fd	harvest bureau
+29fe	harvest sofa
+29ff	harvest chair
+2a00	harvest table
+2a01	harvest mirror
+2a02	harvest TV
+2a03	harvest clock
+2a04	harvest lamp
+2a05	harvest wall lamp
+2a06	Jingle bed
+2a07	Jingle dresser
+2a08	Jingle wardrobe
+2a09	Jingle sofa
+2a0a	Jingle chair
+2a0b	Jingle table
+2a0c	Jingle shelves
+2a0d	Jingle piano
+2a0e	Jingle clock
+2a0f	Jingle lamp
+2a10	Jingle TV
+2a11	princess bed
+2a12	princess chest
+2a13	princess closet
+2a14	princess sofa
+2a15	princess chair
+2a16	princess table
+2a17	princess curio
+2a18	princess dresser
+2a19	princess cage
+2a1a	princess lamp
+2a1b	princess clock
+2a1c	Gracie bed
+2a1d	Gracie chest
+2a1e	Gracie wardrobe
+2a1f	Gracie bench
+2a20	Gracie chair
+2a21	Gracie low table
+2a22	Gracie desk
+2a23	Gracie wagon
+2a24	Gracie shelf
+2a25	Gracie lamp
+2a26	Gracie wall clock
+2a27	sweets bed
+2a28	sweets dresser
+2a29	sweets closet
+2a2a	sweets sofa
+2a2b	sweets chair
+2a2c	sweets table
+2a2d	sweets minitable
+2a2e	sweets bookcase
+2a2f	sweets lamp
+2a30	sweets minilamp
+2a31	sweets player
+2a32	gorgeous bed
+2a33	gorgeous chest
+2a34	gorgeous closet
+2a35	gorgeous sofa
+2a36	gorgeous seat
+2a37	gorgeous stool
+2a38	gorgeous table
+2a39	gorgeous desk
+2a3a	gorgeous counter
+2a3b	gorgeous lamp
+2a3c	gorgeous wall clock
+2a3d	minimalist bed
+2a3e	minimalist sofa
+2a3f	minimalist chair
+2a40	minimalist dresser
+2a41	minimalist wardrobe
+2a42	minimalist clock
+2a43	minimalist lamp
+2a44	minimalist ottoman
+2a45	minimalist table
+2a46	minimalist minitable
+2a47	minimalist vanity
+2a48	golden bed
+2a49	golden dresser
+2a4a	golden closet
+2a4b	golden chair
+2a4c	golden bench
+2a4d	golden table
+2a4e	golden clock
+2a4f	golden man
+2a50	golden woman
+2a51	golden screen
+2a52	golden wall torch
+2a53	cow skull
+2a54	desert cactus
+2a55	western fence
+2a56	saddle fence
+2a57	storefront
+2a58	covered wagon
+2a59	watering trough
+2a5a	tumbleweed
+2a5b	well
+2a5c	wagon wheel
+2a5d	asteroid
+2a5e	moon
+2a5f	lunar lander
+2a60	rocket
+2a61	lunar rover
+2a62	satellite
+2a63	space shuttle
+2a64	Spaceman Sam
+2a65	space station
+2a66	flying saucer
+2a67	detour arrow
+2a68	handcart
+2a69	iron frame
+2a6a	manhole cover
+2a6b	orange cone
+2a6c	traffic cone
+2a6d	sawhorse
+2a6e	wet-road sign
+2a6f	steamroller
+2a70	jackhammer
+2a71	striped cone
+2a72	cement mixer
+2a73	oil barrel
+2a74	boxing barricade
+2a75	red corner
+2a76	blue corner
+2a77	neutral corner
+2a78	judge's bell
+2a79	boxing mat
+2a7a	ringside table
+2a7b	weight bench
+2a7c	sandbag
+2a7d	speed bag
+2a7e	birdhouse
+2a7f	Mr. Flamingo
+2a80	Mrs. Flamingo
+2a81	garden gnome
+2a82	bug zapper
+2a83	hammock
+2a84	birdbath
+2a85	picnic table
+2a86	bird feeder
+2a87	lawn chair
+2a88	lawn mower
+2a89	barbecue
+2a8a	backyard pool
+2a8b	sprinkler
+2a8c	tiki torch
+2a8d	elephant slide
+2a8e	stroller
+2a8f	cradle
+2a90	baby bed
+2a91	clackercart
+2a92	merry-go-round
+2a93	rocking horse
+2a94	train set
+2a95	wobbelina
+2a96	dolly
+2a97	lab bench
+2a98	lab chair
+2a99	medicine chest
+2a9a	florence flask
+2a9b	amazing machine
+2a9c	unknown machine
+2a9d	complex machine
+2a9e	helm
+2a9f	barrel
+2aa0	keg
+2aa1	ship cannon
+2aa2	anchor
+2aa3	ship compass
+2aa4	creepy skeleton
+2aa5	creepy cauldron
+2aa6	creepy bat stone
+2aa7	creepy stone
+2aa8	creepy coffin
+2aa9	creepy crystal
+2aaa	creepy clock
+2aab	creepy statue
+2aac	pawn
+2aad	bishop
+2aae	king
+2aaf	knight
+2ab0	queen
+2ab1	rook
+2ab2	right platform
+2ab3	left platform
+2ab4	podium
+2ab5	teacher's desk
+2ab6	teacher's chair
+2ab7	school desk
+2ab8	school chair
+2ab9	cubbyhole
+2aba	chalkboard
+2abb	mop
+2abc	skeleton
+2abd	anatomical model
+2abe	clear model
+2abf	hamster cage
+2ac0	science table
+2ac1	vaulting horse
+2ac2	ball catcher
+2ac3	high-jump mat
+2ac4	hurdle
+2ac5	scoreboard
+2ac6	folding chair
+2ac7	vision tester
+2ac8	trunk measure
+2ac9	stadiometer
+2aca	scale
+2acb	hospital bed
+2acc	hospital screen
+2acd	IV drip
+2ace	washbasin (1)
+2acf	writing desk
+2ad0	writing chair
+2ad1	globe
+2ad2	office desk
+2ad3	office chair
+2ad4	office locker
+2ad5	coffeemaker
+2ad6	checkout counter
+2ad7	cash register
+2ad8	jukebox
+2ad9	siphon
+2ada	giant dharma
+2adb	dharma
+2adc	mini dharma
+2add	Papa bear
+2ade	Mama bear
+2adf	Baby bear
+2ae0	Mama polar bear
+2ae1	Papa panda
+2ae2	Mama panda
+2ae3	Baby panda
+2ae4	tall cactus
+2ae5	cactus
+2ae6	round cactus
+2ae7	golf bag
+2ae8	simple armchair
+2ae9	simple love seat
+2aea	bear pole
+2aeb	eagle pole
+2aec	frog-woman pole
+2aed	raven pole
+2aee	lava lamp
+2aef	tea table
+2af0	hearth
+2af1	screen
+2af2	hibachi
+2af3	tea tansu
+2af4	paper lantern
+2af5	paper wall lamp
+2af6	paulownia closet
+2af7	stair dresser
+2af8	low screen
+2af9	paper tiger
+2afa	lucky frog
+2afb	sword
+2afc	bow
+2afd	samurai suit
+2afe	black katana
+2aff	white katana
+2b00	ninja sword
+2b01	deer scare
+2b02	tall lantern
+2b03	spa chair
+2b04	bath mat
+2b05	bucket
+2b06	bathtub
+2b07	milk case
+2b08	ice-cream case
+2b09	washbasin (2)
+2b0a	tea vase
+2b0b	red vase
+2b0c	blue vase
+2b0d	lucky cat
+2b0e	lefty lucky cat
+2b0f	lucky black cat
+2b10	lucky gold cat
+2b11	grapefruit table
+2b12	lemon table
+2b13	tangerine chair
+2b14	kiwi stool
+2b15	pear wardrobe
+2b16	pear dresser
+2b17	watermelon chair
+2b18	watermelon table
+2b19	juicy-apple TV
+2b1a	juicy-apple clock
+2b1b	lily-pad table
+2b1c	froggy chair
+2b1d	pine chair
+2b1e	pine table
+2b1f	flower chair
+2b20	flower table
+2b21	ponderosa bonsai
+2b22	pine bonsai
+2b23	mugho bonsai
+2b24	plum bonsai
+2b25	holly bonsai
+2b26	azalea bonsai
+2b27	maple bonsai
+2b28	hawthorn bonsai
+2b29	quince bonsai
+2b2a	jasmine bonsai
+2b2b	pothos
+2b2c	coconut palm
+2b2d	pachira
+2b2e	caladium
+2b2f	croton
+2b30	dracaena
+2b31	lady palm
+2b32	aloe
+2b33	rubber tree
+2b34	snake plant
+2b35	fan palm
+2b36	corn plant
+2b37	bromeliaceae
+2b38	weeping fig
+2b39	conga drum
+2b3a	djimbe drum
+2b3b	timpano drum
+2b3c	violin
+2b3d	cello
+2b3e	bass
+2b3f	folk guitar
+2b40	country guitar
+2b41	rock guitar
+2b42	electric guitar
+2b43	ukulele
+2b44	ebony piano
+2b45	upright piano
+2b46	taiko drum
+2b47	vibraphone
+2b48	biwa lute
+2b49	harp
+2b4a	metronome
+2b4b	trash can
+2b4c	garbage pail
+2b4d	garbage can
+2b4e	trash bin
+2b4f	pantheon post
+2b50	ionian post
+2b51	corinthian post
+2b52	broken post
+2b53	pyramid
+2b54	Sphinx
+2b55	mummy's casket
+2b56	jomon pottery
+2b57	tennis table
+2b58	bowling pins
+2b59	ball return
+2b5a	basketball hoop
+2b5b	billiard table
+2b5c	mahjong table
+2b5d	dartboard
+2b5e	pinball machine
+2b5f	arcade machine
+2b60	tabletop game
+2b61	stool
+2b62	shogi board
+2b63	go board
+2b64	Arc de Triomphe
+2b65	plate armor
+2b66	Tower of Pisa
+2b67	compass
+2b68	box of chocolates
+2b69	backpack
+2b6a	mountain bike
+2b6b	propane stove
+2b6c	kayak
+2b6d	lantern
+2b6e	sleeping bag
+2b6f	campfire
+2b70	bonfire
+2b71	TV with VCR
+2b72	wide-screen TV
+2b73	retro TV
+2b74	kitchen sink
+2b75	kitchen corner
+2b76	deluxe range
+2b77	range
+2b78	stove
+2b79	sink
+2b7a	tea set
+2b7b	shaved-ice maker
+2b7c	refrigerator
+2b7d	retro fridge
+2b7e	microwave
+2b7f	toaster
+2b80	mixer
+2b81	clothesline pole
+2b82	doghouse
+2b83	beach chair
+2b84	wave breaker
+2b85	surfboard
+2b86	Diver Dan
+2b87	beach table
+2b88	treasure chest
+2b89	life ring
+2b8a	snowboard
+2b8b	sleigh
+2b8c	snowman
+2b8d	sunflower
+2b8e	daffodil
+2b8f	gerbera
+2b90	toilet
+2b91	super toilet
+2b92	men's toilet
+2b93	game shelf
+2b94	safe
+2b95	deluxe washer
+2b96	automatic washer
+2b97	washer/dryer
+2b98	potbelly stove
+2b99	space heater
+2b9a	fireplace
+2b9b	radiator
+2b9c	phonograph
+2b9d	turntable
+2b9e	reel-to-reel
+2b9f	retro stereo
+2ba0	gold stereo
+2ba1	hi-fi stereo
+2ba2	high-end stereo
+2ba3	dice stereo
+2ba4	tape deck
+2ba5	CD player
+2ba6	cassette player
+2ba7	round clock
+2ba8	kitschy clock
+2ba9	antique clock
+2baa	cube clock
+2bab	odd clock
+2bac	oval clock
+2bad	owl clock
+2bae	alarm clock
+2baf	common chair
+2bb0	rocking chair
+2bb1	lefty desk
+2bb2	righty desk
+2bb3	gas pump
+2bb4	extinguisher
+2bb5	fire hydrant
+2bb6	raccoon figurine
+2bb7	barber's pole
+2bb8	candy machine
+2bb9	scarecrow
+2bba	birdcage
+2bbb	phone box
+2bbc	outdoor bath
+2bbd	wheat field
+2bbe	computer
+2bbf	pineapple bed
+2bc0	glass-top table
+2bc1	kotatsu
+2bc2	cream sofa
+2bc3	storage case
+2bc4	clothes closet
+2bc5	claw-foot tub
+2bc6	shower
+2bc7	massage chair
+2bc8	vacuum cleaner
+2bc9	bottled ship
+2bca	water bird
+2bcb	executive toy
+2bcc	telescope
+2bcd	mochi pestle
+2bce	old sewing machine
+2bcf	cardboard box
+2bd0	wooden box
+2bd1	fan
+2bd2	candle
+2bd3	mini lamp
+2bd4	desk light
+2bd5	table lamp
+2bd6	throne
+2bd7	common bed
+2bd8	Block
+2bd9	Coin
+2bda	Goal Pole
+2bdb	Fire Flower
+2bdc	Super Mushroom
+2bdd	Green Shell
+2bde	Super Star
+2bdf	1-Up Mushroom
+2be0	? Block
+2be1	Pipe
+2be2	Fire Bar
+2be3	Bill Blaster
+2be4	Yoshi's Egg
+2be5	Triple Bananas
+2be6	Triple Red Shells
+2be7	kart
+2be8	Pikmin
+2be9	Blue Falcon
+2bea	Master Sword
+2beb	Arwing
+2bec	Triforce
+2bed	Metroid
+2bee	S.S. Dolphin
+2bef	jack-in-the-box
+2bf0	kadomatsu
+2bf1	kagamimochi
+2bf2	hinaningyo
+2bf3	big festive tree
+2bf4	festive tree
+2bf5	festive flag
+2bf6	festive candle
+2bf7	lovely phone
+2bf8	box of tissues
+2bf9	piggy bank
+2bfa	bellpoint
+2bfb	aluminum briefcase
+2bfc	rice cake
+2bfd	dango
+2bfe	bamboo grass
+2bff	Resetti model
+2c00	cool globe
+2c01	picnic basket
+2c02	sailboat model
+2c03	wheat bundle
+2c04	espresso maker
+2c05	stuffed stocking
+2c06	snow globe
+2c07	veggie basket
+2c08	yut board
+2c09	hibiscus
+2c0a	bureom
+2c0b	festive wreath
+2c0c	brown pot
+2c0d	white pot
+2c0e	tapestry
+2c0f	top
+2c10	tokonoma
+2c11	carp banner
+2c12	eggplant cow
+2c13	morning glory
+2c14	pile of leaves
+2c15	sand castle
+2c16	shopping cart
+2c17	hagoita
+2c18	blossom lantern
+2c19	cucumber horse
+2c1a	fedora chair
+2c1b	tteok plate
+2c1c	kimbap plate
+2c1d	shaved-ice lamp
+2c1e	flower bouquet
+2c1f	cupid bench
+2c20	display stand
+2c21	glass display case
+2c22	flat display case
+2c23	tall display case
+2c24	museum chair
+2c25	arrow sign
+2c26	fancy frame
+2c27	thermohygrometer
+2c28	reception table
+2c29	poster stand
+2c2a	exhibit partition
+2c2b	jellyfish lamp
+2c2c	air conditioner
+2c2d	pendulum clock
+2c2e	LED display
+2c2f	gold fish trophy
+2c30	silver fish trophy
+2c31	bronze fish trophy
+2c32	gold bug trophy
+2c33	silver bug trophy
+2c34	bronze bug trophy
+2c35	museum model
+2c36	letter set
+2c37	New Year's noodles
+2c38	bell knickknack
+2c39	pipe stool
+2c3a	cornucopia
+2c3b	pumpkin pie
+2c3c	turkey
+2c3d	afternoon-tea set
+2c3e	large bookshelf
+2c3f	stepladder
+2c40	microscope
+2c41	moth orchid
+2c42	tricycle
+2c43	shower stall
+2c44	mic stand
+2c45	tatami bed
+2c46	harpsichord
+2c47	director's chair
+2c48	theremin
+2c49	bunk bed
+2c4a	lovely doll
+2c4b	volleyball net
+2c4c	pink velvet stool
+2c4d	Yule log
+2c4e	fancy doll
+2c4f	fruit basket
+2c50	poinsettia
+2c51	hot plate
+2c52	snow bunny
+2c53	vintage telephone
+2c54	record player
+2c55	spinning wheel
+2c56	pop-up book
+2c57	drip pail
+2c58	oil lamp
+2c59	electric kettle
+2c5a	wedding cake
+2c5b	candy jar
+2c5c	holiday candle
+2c5d	fish grill
+2c5e	lily lamp
+2c5f	standing spotlight
+2c60	small spotlight
+2c61	stained-glass lamp
+2c62	campfire cookware
+2c63	small igloo
+2c64	colorful wheel
+2c65	vintage camera
+2c66	small LED display
+2c67	HHA pennant
+2c68	silver HHA plaque
+2c69	gold HHA plaque
+2c6a	silver HHA trophy
+2c6b	gold HHA trophy
+2c6c	gold house model
+2c6d	cat tower
+2c6e	dishwasher
+2c6f	wooden stool
+2c70	CD shelf
+2c71	metal guitar
+2c72	large magazine rack
+2c73	trunk
+2c74	milk can
+2c75	coat hanger
+2c76	lotus lamp
+2c77	sewing machine
+2c78	dollhouse
+2c79	slushie machine
+2c7a	computer desk
+2c7b	potty
+2c7c	kettle
+2c7d	homework set
+2c7e	salad bar
+2c7f	rope partition
+2c80	washing machine
+2c81	aroma pot
+2c82	game-show stand
+2c83	soda case
+2c84	donut stool
+2c85	steamed-bun case
+2c86	clay furnace
+2c87	flat-screen TV
+2c88	bingo wheel
+2c89	editor's chair
+2c8a	painting set
+2c8b	editor's desk
+2c8c	revolving spice rack
+2c8d	bathroom sink
+2c8e	incense burner
+2c8f	small magazine rack
+2c90	rice cooker
+2c91	star projector
+2c92	conveyor-belt sushi
+2c93	star globe
+2c94	whiteboard
+2c95	peacock chair
+2c96	whirlpool bath
+2c97	kitchen island
+2c98	cushion
+2c99	sanshin
+2c9a	effects rack
+2c9b	humidifier
+2c9c	time clock
+2c9d	crane game
+2c9e	music stand
+2c9f	ironing set
+2ca0	rolling suitcase
+2ca1	planter
+2ca2	dentist's chair
+2ca3	amp
+2ca4	loom
+2ca5	lazy-Susan table
+2ca6	pickle jar
+2ca7	TV camera
+2ca8	buffet server
+2ca9	freezer
+2caa	ceramic hot pot
+2cab	stewpot
+2cac	laptop
+2cad	server
+2cae	copy machine
+2caf	drum set
+2cb0	soda fountain
+2cb1	water cooler
+2cb2	upright vacuum
+2cb3	makeup case
+2cb4	double-neck guitar
+2cb5	Virtual Boy
+2cb6	popcorn machine
+2cb7	DJ's turntable
+2cb8	flashy-flower sign
+2cb9	soft-serve lamp
+2cba	home-computer rack
+2cbb	pipe organ
+2cbc	karaoke system
+2cbd	simple kettle
+2cbe	digital-photo frame
+2cbf	pot rack
+2cc0	wall flowerpot
+2cc1	display shelf
+2cc2	stained glass
+2cc3	school speaker
+2cc4	blue certificate
+2cc5	hospital TV
+2cc6	cuckoo clock
+2cc7	wall fan
+2cc8	mobile
+2cc9	breaker
+2cca	yellow certificate
+2ccb	ventilation fan
+2ccc	life preserver
+2ccd	festival lantern
+2cce	surveillance camera
+2ccf	exit sign
+2cd0	wall-mounted speaker
+2cd1	sconce
+2cd2	bathroom stall
+2cd3	portable toilet
+2cd4	elder mask
+2cd5	ogre mask
+2cd6	female mask
+2cd7	spiderweb clock
+2cd8	caterpillar sofa
+2cd9	beetle chair
+2cda	stag-beetle chair
+2cdb	honeybee chest
+2cdc	firefly lamp
+2cdd	mini butterfly table
+2cde	ladybug chair
+2cdf	snail clock
+2ce0	cicada stereo
+2ce1	sea-anemone bed
+2ce2	squid chair
+2ce3	crab clock
+2ce4	football-fish lamp
+2ce5	octopus chair
+2ce6	red-snapper chair
+2ce7	puffer-fish TV
+2ce8	dab table
+2ce9	flounder table
+2cea	raccoon wall clock
+2ceb	tall mini cactus
+2cec	mini cactus
+2ced	round mini cactus
+2cee	exercise bike
+2cef	butterfly machine
+2cf0	lat pulldown machine
+2cf1	treadmill
+2cf2	bread box
+2cf3	chaise lounge
+2cf4	chocolate fountain
+2cf5	box sofa
+2cf6	box corner sofa
+2cf7	lunch tray
+2cf8	hourglass
+2cf9	boxed figurine
+2cfa	miniature car
+2cfb	mini circuit
+2cfc	capsule-toy machine
+2cfd	bilboquet
+2cfe	foosball table
+2cff	slide puzzle
+2d00	egg basket
+2d01	partition screen
+2d02	typewriter
+2d03	sleek sideboard
+2d04	sleek stereo
+2d05	sleek bed
+2d06	sleek sofa
+2d07	sleek chair
+2d08	sleek dresser
+2d09	sleek closet
+2d0a	sleek clock
+2d0b	sleek lamp
+2d0c	sleek table
+2d0d	sleek side table
+2d0e	modern wood bed
+2d0f	modern wood sofa
+2d10	modern wood chair
+2d11	modern wood chest
+2d12	modern wood closet
+2d13	modern wood clock
+2d14	modern wood lamp
+2d15	modern wood stool
+2d16	modern wood table
+2d17	modern wood shelf
+2d18	modern wood TV
+2d19	mermaid bed
+2d1a	mermaid sofa
+2d1b	mermaid chair
+2d1c	mermaid dresser
+2d1d	mermaid closet
+2d1e	mermaid clock
+2d1f	mermaid vanity
+2d20	mermaid lamp
+2d21	mermaid screen
+2d22	mermaid shelf
+2d23	mermaid table
+2d24	ice dresser
+2d25	ice closet
+2d26	ice table
+2d27	ice chair
+2d28	ice side table
+2d29	ice lamp
+2d2a	ice shelf
+2d2b	ice sofa
+2d2c	ice bed
+2d2d	ice clock
+2d2e	ice vanity
+2d2f	rococo candlestick
+2d30	rococo bed
+2d31	rococo shelf
+2d32	rococo sofa
+2d33	rococo chair
+2d34	rococo dresser
+2d35	rococo wardrobe
+2d36	rococo clock
+2d37	rococo vanity
+2d38	rococo lamp
+2d39	rococo table
+2d3a	alpine bed
+2d3b	alpine sofa
+2d3c	alpine chair
+2d3d	alpine dresser
+2d3e	alpine closet
+2d3f	alpine lamp
+2d40	alpine panel
+2d41	alpine shelf
+2d42	large alpine table
+2d43	alpine low table
+2d44	alpine kitchen cart
+2d45	astro CD player
+2d46	astro bed
+2d47	astro sofa
+2d48	astro chair
+2d49	astro dresser
+2d4a	astro closet
+2d4b	astro clock
+2d4c	astro table
+2d4d	astro TV
+2d4e	astro shelf
+2d4f	astro lamp
+2d50	card tower
+2d51	card bed
+2d52	card sofa
+2d53	card chair
+2d54	card dresser
+2d55	card closet
+2d56	card wall clock
+2d57	card lamp
+2d58	card screen
+2d59	card shelf
+2d5a	card table
+2d5b	stripe dresser
+2d5c	stripe lamp
+2d5d	stripe closet
+2d5e	stripe TV
+2d5f	stripe table
+2d60	stripe sofa
+2d61	stripe shelf
+2d62	stripe clock
+2d63	stripe bed
+2d64	stripe bathroom sink
+2d65	stripe chair
+2d66	sloppy bed
+2d67	sloppy sofa
+2d68	sloppy clock
+2d69	sloppy chair
+2d6a	sloppy table
+2d6b	sloppy closet
+2d6c	sloppy sink
+2d6d	sloppy lamp
+2d6e	sloppy stereo
+2d6f	sloppy TV
+2d70	sloppy dresser
+2d71	beacon fire
+2d72	circle banner
+2d73	general's fan
+2d74	hedge standee
+2d75	grass standee
+2d76	mountain standee
+2d77	tree standee
+2d78	cacao tree
+2d79	drinking fountain
+2d7a	potted ivy
+2d7b	genie's lamp
+2d7c	boomerang
+2d7d	neon sign
+2d7e	Rooster of Barcelos
+2d7f	Dala horse
+2d80	dream catcher
+2d81	skeleton figurine
+2d82	post-office poster
+2d83	shamrock clock
+2d84	red-tasseled lantern
+2d85	hula doll
+2d86	moai statue
+2d87	tribal mask
+2d88	Merlion
+2d89	pagoda
+2d8a	mermaid statue
+2d8b	Mouth of Truth
+2d8c	Manneken Pis
+2d8d	matryoshka
+2d8e	samgyetang
+2d8f	Eiffel Tower
+2d90	Jolly Roger
+2d91	vintage telescope
+2d92	pirate's armor
+2d93	marshmallow chair
+2d94	cardboard table
+2d95	cardboard chair
+2d96	cardboard sofa
+2d97	cardboard closet
+2d98	cardboard bed
+2d99	zodiac rat
+2d9a	zodiac ox
+2d9b	zodiac tiger
+2d9c	zodiac rabbit
+2d9d	zodiac dragon
+2d9e	zodiac snake
+2d9f	zodiac horse
+2da0	zodiac goat
+2da1	zodiac monkey
+2da2	zodiac rooster
+2da3	zodiac dog
+2da4	zodiac boar
+2da5	wall-mounted monitor
+2da6	hologram machine
+2da7	space captain's seat
+2da8	crew member's seat
+2da9	space console
+2daa	large space console
+2dab	small space console
+2dac	captain's monitor
+2dad	crew's monitor
+2dae	spherical radar
+2daf	chocolate cake
+2db0	cream and sugar
+2db1	coffee cup
+2db2	dessert case
+2db3	coffee grinder
+2db4	birthday table
+2db5	birthday candles
+2db6	birthday sign
+2db7	birthday cake
+2db8	lift chair
+2db9	snowman matryoshka
+2dba	Ten Billion Barrel
+2dbb	curling stone
+2dbc	pepper mill
+2dbd	sketchbook
+2dbe	toy camera
+2dbf	Kinderdijk windmill
+2dc0	tuk-tuk
+2dc1	world map
+2dc2	bobsled
+2dc3	slalom gate
+2dc4	camp stove
+2dc5	ski rack
+2dc6	sitar
+2dc7	Ayers Rock
+2dc8	smoker
+2dc9	Gaudí's lizard
+2dca	songpyeon
+2dcb	bagpipes
+2dcc	Big Ben
+2dcd	snow machine
+2dce	twelve-grape plate
+2dcf	sea globe
+2dd0	nutcracker
+2dd1	Wii Balance Board
+2dd2	holiday stocking
+2dd3	berliner
+2dd4	snowmobile
+2dd5	love tester
+2dd6	Statue of Liberty
+2dd7	patchwork chair
+2dd8	patchwork dresser
+2dd9	patchwork lamp
+2dda	patchwork table
+2ddb	patchwork sofa
+2ddc	general's stool
+2ddd	shogi piece
+2dde	board game piece
+2ddf	balloon TV
+2de0	balloon sofa
+2de1	balloon clock
+2de2	balloon lamp
+2de3	balloon table
+2de4	balloon bed
+2de5	balloon chair
+2de6	balloon dresser
+2DE7	Dog Lamp	
+2de8	balloon closet
+2de9	balloon vanity
+2dea	lily record player
+2deb	rose sofa
+2dec	sunflower stereo
+2ded	tulip dresser
+2dee	violet screen
+2def	hydrangea bed
+2df0	azalea stool
+2df1	pansy table
+2df2	cosmos fan
+2df3	hibiscus clock
+2df4	Ultra Hand
+2df5	Ultra Scope
+2df6	Ultra Machine
+2df7	giraffe ruler
+2df8	vintage radio
+2df9	zero lamp
+2dfa	one lamp
+2dfb	two lamp
+2dfc	three lamp
+2dfd	four lamp
+2dfe	five lamp
+2dff	six lamp
+2e00	seven lamp
+2e01	eight lamp
+2e02	nine lamp
+2e03	Aries rocking chair
+2e04	Taurus bathtub
+2e05	Gemini closet
+2e06	Cancer table
+2e07	Leo sculpture
+2e08	Virgo harp
+2e09	Libra scale
+2e0a	Scorpio lamp
+2e0b	Sagittarius arrow
+2e0c	Capricorn ornament
+2e0d	Aquarius urn
+2e0e	Pisces lamp
+2e0f	sunrise lamp
+2e10	aurora screen
+2e11	sprout table
+2e12	cherry-blossom clock
+2e13	leaf bed
+2e14	rainbow screen
+2e15	palm-tree lamp
+2e16	fireworks table
+2e17	full-moon vanity
+2e18	rice-plant bed
+2e19	autumn-leaf chair
+2e1a	tree-stump chair
+2e1b	corkboard
+2e1c	kitchen scale
+2e1d	sushi platter
+2e1e	kokeshi doll
+2e1f	24-hour-shop model
+2e20	in-store Bellpoint
+2e21	soft-drink display
+2e22	sandwich display
+2e23	24-hour-shop sign
+2e24	24-hour-shop counter
+2e25	barbecue bed
+2e26	notebook wardrobe
+2e27	eraser sofa
+2e28	notebook bed
+2e29	pencil screen
+2e2a	sticker tape liner
+2e2b	set square table
+
+// Nook Inventory
+30fe	red flowers
+30ff	white flowers
+3100	yellow flowers
+3101	tulips
+3102	pansies
+3103	cosmos
+3104	roses
+3105	red mailbox
+3106	metal mailbox
+3107	blue mailbox
+3108	yellow mailbox
+3109	orange mailbox
+310a	green mailbox
+310b	golden mailbox
+310c	wooden mailbox
+310d	white mailbox
+310e	pink mailbox
+310f	zen mailbox
+3110	shabby mailbox
+3111	stainless mailbox
+3112	square mailbox
+3113	light-blue mailbox
+3114	cyan mailbox
+3115	mermaid mailbox
+3116	cabana mailbox
+3117	fairy-tale mailbox
+3118	royal mailbox
+3119	barrel mailbox
+311a	sweets mailbox
+311b	arched circle door
+311c	arched fish door
+311d	arched astro door
+311e	arched door
+311f	arched yellow door
+3120	arched metal door
+3121	arched patched door
+3122	arched sweets door
+3123	arched mermaid door
+3124	arched zen door
+3125	arched cabin door
+3126	arch fairy-tale door
+3127	arched brown door
+3128	arched green door
+3129	arched heavy door
+312a	arched blue door
+312b	arched beige door
+312c	arched imperial door
+312d	arched pink door
+312e	arched kiddie door
+312f	arched bamboo door
+3130	arched golden door
+3131	basic door
+3132	fish door
+3133	astro door
+3134	classic door
+3135	yellow door
+3136	metal door
+3137	patched door
+3138	sweets door
+3139	mermaid door
+313a	zen door
+313b	cabin door
+313c	fairy-tale door
+313d	brown door
+313e	green door
+313f	heavy door
+3140	blue door
+3141	beige door
+3142	imperial door
+3143	pink door
+3144	kiddie door
+3145	bamboo door
+3146	red roof
+3147	green-tile roof
+3148	blue-shingle roof
+3149	astro roof
+314a	kiddie roof
+314b	black modern roof
+314c	straw-thatched roof
+314d	black-tile roof
+314e	fairy-tale roof
+314f	ranch roof
+3150	shanty roof
+3151	concrete roof
+3152	sweets roof
+3153	white roof
+3154	purple-shingle roof
+3155	black-straw roof
+3156	mermaid roof
+3157	simple blue roof
+3158	purple roof
+3159	pink roof
+315a	black roof
+315b	yellow roof
+315c	fuchsia roof
+315d	black-shingle roof
+315e	brown roof
+315f	grass roof
+3160	stone roof
+3161	mint fairy-tale roof
+3162	uneven stone roof
+3163	simple green roof
+3164	simple gray roof
+3165	golden roof
+3166	blue roof
+3167	yellow roof
+3168	green roof
+3169	rope fence
+316a	picket fence
+316b	country fence
+316c	hedge
+316d	pink mermaid fence
+316e	blue mermaid fence
+316f	red-brick fence
+3170	gray-brick fence
+3171	pink fence
+3172	fairy-tale fence
+3173	corral fence
+3174	curvy fence
+3175	blue fence
+3176	fancy fence
+3177	zen fence
+3178	barbed-wire fence
+3179	sweets fence
+317a	concrete fence
+317b	shanty fence
+317c	bamboo fence
+317d	sculpted hedge
+317e	cinder-block wall
+317f	golden fence
+3180	brick exterior
+3181	exotic exterior
+3182	cobblestone exterior
+3183	astro exterior
+3184	kiddie exterior
+3185	simple exterior
+3186	cabana exterior
+3187	zen exterior
+3188	fairy-tale exterior
+3189	cabin exterior
+318a	shanty exterior
+318b	concrete exterior
+318c	sweets exterior
+318d	white-brick exterior
+318e	chalet exterior
+318f	brown-brick exterior
+3190	mermaid exterior
+3191	red-barn exterior
+3192	blue chalet exterior
+3193	pink exterior
+3194	blue exterior
+3195	orange exterior
+3196	garden exterior
+3197	yellow exterior
+3198	white exterior
+3199	stucco exterior
+319a	stone exterior
+319b	melon exterior
+319c	earthy exterior
+319d	fancy exterior
+319e	black exterior
+319f	golden exterior
+31a0	colorful gravel
+31a1	stone pavement
+31a2	brick pavement
+31a3	pebble pavement
+31a4	square pavement
+31a5	concrete pavement
+31a6	blue-brick pavement
+31a7	pink pavement
+31a8	brown pavement
+31a9	mansion
+31aa	zen castle
+31ab	castle
+31ac	modern house
