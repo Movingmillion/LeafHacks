@@ -1,0 +1,127 @@
+Carpets
+23c7	exotic rug
+23c8	lovely carpet
+23c9	classic carpet
+23ca	ranch flooring
+23cb	cabana flooring
+23cc	blue flooring
+23cd	modern tile
+23ce	regal carpet
+23cf	green rug
+23d0	cabin rug
+23d1	kiddie carpet
+23d2	robo-floor
+23d3	snowman carpet
+23d4	forest floor
+23d5	Pavé floor
+23d6	egg floor
+23d7	spooky carpet
+23d8	harvest rug
+23d9	Jingle carpet
+23da	princess carpet
+23db	Gracie carpet
+23dc	sweets floor
+23dd	gorgeous floor
+23de	western desert
+23df	lunar surface
+23e0	closed road
+23e1	boxing-ring mat
+23e2	backyard lawn
+23e3	playroom rug
+23e4	ship deck
+23e5	lab floor
+23e6	classroom floor
+23e7	bath tile
+23e8	pastel-dot rug
+23e9	checkered tile
+23ea	ceramic tile
+23eb	diner tile
+23ec	kitschy tile
+23ed	red tile
+23ee	mosaic tile
+23ef	chessboard rug
+23f0	plaza tile
+23f1	palace tile
+23f2	imperial tile
+23f3	kitchen tile
+23f4	stone tile
+23f5	charcoal tile
+23f6	tatami
+23f7	planked tatami
+23f8	mossy carpet
+23f9	sand garden
+23fa	slate flooring
+23fb	concrete floor
+23fc	basement floor
+23fd	parquet floor
+23fe	old board floor
+23ff	kitchen flooring
+2400	music-room floor
+2401	office flooring
+2402	opulent rug
+2403	plush carpet
+2404	ornate rug
+2405	fancy carpet
+2406	exquisite rug
+2407	tent rug
+2408	tartan rug
+2409	round carpet
+240a	citrus carpet
+240b	cowhide rug
+240c	birch flooring
+240d	plank flooring
+240e	bamboo flooring
+240f	steel flooring
+2410	shanty mat
+2411	ancient tile
+2412	illusion floor
+2413	daisy meadow
+2414	tropical floor
+2415	Saharah's desert
+2416	sandlot
+2417	sidewalk
+2418	cloud flooring
+2419	common floor
+241b	block floor
+241c	creepy floor
+241d	ramshackle floor
+241e	sporty floor
+241f	golden carpet
+2420	hopscotch floor
+2421	wildflower floor
+2422	jungle floor
+2423	underwater floor
+2424	dig-site floor
+2425	paintball floor
+2426	ladybug carpet
+2427	ice floor
+2428	sloppy carpet
+2429	sci-fi floor
+242a	modern wood flooring
+242b	mermaid carpet
+242c	sleek carpet
+242d	card carpet
+242e	stripe carpet
+242f	neutral floor
+2430	ski-slope floor
+2431	balloon floor
+2432	astro floor
+2433	flower pop carpet
+2434	marine pop floor
+2435	cheese floor
+2436	maze floor
+2437	autumn floor
+2438	rococo floor
+2439	alpine rug
+243a	notebook floor
+243b	dotted rug
+243c	exhibit-room floor
+243d	museum floor
+243e	recycle-shop floor
+243f	convenient floor
+2440	market floor
+2441	home-center floor
+2442	department floor
+2443	Gracie floor (1)
+2444	Gracie floor (2)
+2445	Gracie floor (3)
