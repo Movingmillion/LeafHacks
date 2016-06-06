@@ -1,4 +1,6 @@
-# http://sirbeethoven.github.io/ACNL_Hacks/
+# http://sirbeethoven.github.io/LeafHacks/
+# LeafHacks
+A hub for ACNL hacks and item ID's!
 # Sources:
 https://gbatemp.net/threads/release-animal-crossing-new-leaf-multi-cheat-ntr-plugin.428522/
 
