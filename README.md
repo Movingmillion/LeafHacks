@@ -9,3 +9,5 @@ https://gbatemp.net/threads/release-animal-crossing-new-leaf-text2item-ntr-plugi
 https://github.com/RyDog199/ACNL-NTR-Cheats
 
 https://github.com/kwsch/NLSE/blob/master/Resources/text/item_en.txt
+
+https://github.com/kwsch/NLSE
