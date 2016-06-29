@@ -13,7 +13,7 @@ Favorites
 209c	gold nugget
 209d	silver nugget
 
-Favorite Handhelds
+Fav. Handhelds
 3042  Gold Net
 3046  Gold Rod
 304A  Gold Shovel
@@ -22,7 +22,7 @@ Favorite Handhelds
 303E  Gold Axe
 3054  Toy Hammer
 
-Favorite Vegetation
+Fav. Vegetation
 2053	gold-rose bag
 2051	black-rose bag
 2052	blue-rose bag
