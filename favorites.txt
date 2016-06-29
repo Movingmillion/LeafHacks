@@ -2,8 +2,8 @@ Favorites
 7FFE  Nothing
 009D  Pattern
 20A7  100 Bells
-2112	99,000 Bells
-2284	100 turnips
+2112  99,000 Bells
+2284  100 turnips
 2098  famous mushroom
 307b  coffee
 209b  tricky pitfall seed
