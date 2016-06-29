@@ -4,3 +4,17 @@ Favorites
 20A7  100 Bells
 2112	99,000 Bells
 2284	100 turnips
+2098  famous mushroom
+307b  coffee
+209b  tricky pitfall seed
+209a  pitfall seed
+308b  Tweeter
+
+Favorite Handhelds
+3042  Gold Net
+3046  Gold Rod
+304A  Gold Shovel
+304E  Golden Can
+3052  Golden Slingshot
+303E  Gold Axe
+3054  Toy Hammer
