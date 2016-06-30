@@ -1,0 +1,453 @@
+Shirts
+2448	one-ball tee
+2449	two-ball tee
+244a	three-ball tee
+244b	four-ball tee
+244c	five-ball tee
+244d	six-ball tee
+244e	seven-ball tee
+244f	eight-ball tee
+2450	nine-ball tee
+2451	paw tee
+2452	daisy tee
+2453	tulip tee
+2454	cherry tee
+2455	skull tee
+2456	U-R-here tee
+2457	lightning tee
+2458	MVP tee
+2459	BB tee
+245a	fish tee
+245b	frog tee
+245c	bear tee
+245d	bunny tee
+245e	bunny shirt
+245f	elephant tee
+2460	spade tee
+2461	diamond tee
+2462	club tee
+2463	heart tee
+2464	big-star tee
+2465	bright tee
+2466	A tee
+2467	No. 1 shirt
+2468	No. 2 shirt
+2469	No. 3 shirt
+246a	No. 4 shirt
+246b	No. 5 shirt
+246c	No. 23 shirt
+246d	No. 67 shirt
+246e	big bro's tee
+246f	li'l bro's tee
+2470	cloudy tee
+2471	fresh tee
+2472	dawn tee
+2473	misty tee
+2474	sunset tee
+2475	deep-blue tee
+2476	peachy tee
+2477	rainbow tee
+2478	sno-cone tee
+2479	orange tie-dye tee
+247a	purple tie-dye tee
+247b	green tie-dye tee
+247c	blue tie-dye tee
+247d	red tie-dye tee
+247e	bold-check tee
+247f	café tee
+2480	checkered tee
+2481	blue-check tee
+2482	red-check tee
+2483	dogtooth tee
+2484	tan dogtooth tee
+2485	rugby tee
+2486	green-bar tee
+2487	yellow-bar tee
+2488	grape-stripe tee
+2489	beatnik tee
+248a	red-bar tee
+248b	blue-stripe tee
+248c	blue-stripe shirt
+248d	gelato tee
+248e	chain-gang tee
+248f	speedway tee
+2490	yellow tartan tee
+2491	fall plaid tee
+2492	blue tartan tee
+2493	dapper tee
+2494	natty tee
+2495	blue-grid tee
+2496	red-grid tee
+2497	dazed tee
+2498	checkerboard tee
+2499	Toad tee
+249a	dark polka tee
+249b	lite polka tee
+249c	bubble-gum tee
+249d	funky-dot tee
+249e	gumdrop tee
+249f	big-dot tee
+24a0	aqua polka tee
+24a1	blue-bar tee
+24a2	gold-bar tee
+24a3	brown-bar tee
+24a4	vegetarian tee
+24a5	racer tee
+24a6	pastel-stripe tee
+24a7	rally tee
+24a8	racer 6 tee
+24a9	vertigo tee
+24aa	barber tee
+24ab	jade plaid tee
+24ac	blue plaid tee
+24ad	mint gingham tee
+24ae	picnic tee
+24af	candy gingham tee
+24b0	lemon gingham tee
+24b1	melon gingham tee
+24b2	bad plaid tee
+24b3	pink tartan tee
+24b4	waffle tee
+24b5	gray tartan tee
+24b6	gray tartan shirt
+24b7	red argyle shirt
+24b8	red argyle tee
+24b9	blue argyle shirt
+24ba	blue argyle tee
+24bb	pink argyle shirt
+24bc	pink argyle tee
+24bd	cyan argyle shirt
+24be	cyan argyle tee
+24bf	chevron shirt
+24c0	icy shirt
+24c1	aurora knit shirt
+24c2	winter sweater
+24c3	folk shirt
+24c4	argyle knit shirt
+24c5	uncommon shirt
+24c6	comfy sweater
+24c7	beige knit shirt
+24c8	earthy knit shirt
+24c9	spring shirt
+24ca	lively knit shirt
+24cb	deer shirt
+24cc	monkey shirt
+24cd	chocomint tee
+24ce	fern tee
+24cf	leaf tee
+24d0	fall leaf tee
+24d1	straw shirt
+24d2	grass tee
+24d3	snow shirt
+24d4	lovely tee
+24d5	bubble tee
+24d6	chichi-print tee
+24d7	coral tee
+24d8	groovy tee
+24d9	flame tee
+24da	danger tee
+24db	Gracie tank
+24dc	future tank
+24dd	optical shirt
+24de	twinkle tee
+24df	star tee
+24e0	night-sky tee
+24e1	amethyst tee
+24e2	nebula tee
+24e3	dice tank
+24e4	kiddie tee
+24e5	airy tee
+24e6	crossing shirt
+24e7	splendid tee
+24e8	jagged tee
+24e9	subdued-print tee
+24ea	sharp outfit
+24eb	painter's tee
+24ec	jungle-camo tee
+24ed	arctic-camo tee
+24ee	desert-camo tee
+24ef	circuit tank
+24f0	pulse tank
+24f1	zebra tee
+24f2	tiger tee
+24f3	cow tee
+24f4	leopard tee
+24f5	giraffe tee
+24f6	ladybug tank
+24f7	spiderweb tee
+24f8	caterpillar tank
+24f9	fiendish shirt
+24fa	citrus tee
+24fb	kiwi tee
+24fc	watermelon tee
+24fd	strawberry tee
+24fe	grape tee
+24ff	melon tee
+2500	pink wave tank
+2501	flan tank
+2502	hot-dog tank
+2503	sandwich tank
+2504	noodle tee
+2505	sundae tank
+2506	dragon suit
+2507	periwinkle tee
+2508	hot spring tee
+2509	new spring tee
+250a	crewel tee
+250b	tropical tee
+250c	corseted shirt
+250d	noble shirt
+250e	red aloha tee
+250f	blue aloha tee
+2510	western shirt
+2511	royal shirt
+2512	firefighter shirt
+2513	doctor's coat
+2514	bone shirt
+2515	zipper shirt
+2516	mummy shirt
+2517	military uniform
+2518	sailor's tee
+2519	reggae tee
+251a	camel shirt
+251b	concierge shirt
+251c	tuxedo
+251d	explorer tee
+251e	soccer tee
+251f	red down jacket
+2520	blue down jacket
+2521	cavalier shirt
+2522	beaded shirt
+2523	wrap shirt
+2524	wrestler tank
+2525	security tee
+2526	bear costume
+2527	frog costume
+2528	kappa costume
+2529	imperial shirt
+252a	racing shirt
+252b	orange jacket
+252c	tin shirt
+252d	scale-armor suit
+252e	armor suit
+252f	gold-armor suit
+2530	striking outfit
+2531	red warm-up suit
+2532	baseball shirt
+2533	red gym tee
+2534	blue gym tee
+2535	space suit
+2536	caveman tank
+2537	kung-fu tee
+2538	pleather vest
+2539	cycling shirt
+253a	cycling tee
+253b	chef's outfit
+253c	genie shirt
+253d	folk tunic
+253e	red-zap suit
+253f	blue-zap suit
+2540	green-zap suit
+2541	samurai shirt
+2542	patched shirt
+2543	hero's clothes
+2544	Varia Suit
+2545	team NTDO tee
+2546	gray parka
+2547	fishing vest
+2548	captain's jacket
+2549	ninja shirt
+254a	detective outfit
+254b	Santa coat
+254c	chick tee
+254d	scale-print tee
+254e	jinbei top
+254f	kanji tee
+2550	raglan shirt
+2551	happi tee
+2552	red letter jacket
+2553	blue letter jacket
+2554	black letter jacket
+2555	tiger jacket
+2556	dragon jacket
+2557	red flannel shirt
+2558	blue flannel shirt
+2559	black flannel shirt
+255a	pink-bud tank
+255b	garden tank
+255c	lacy white tank
+255d	pink tank
+255e	hanten shirt
+255f	work shirt
+2560	tan puffy vest
+2561	after-school jacket
+2562	kids' smock
+2563	school jacket
+2564	mint shirt
+2565	denim jacket
+2566	prism tee
+2567	denim vest
+2568	green gym tee
+2569	green emblem blazer
+256a	acid-washed jacket
+256b	red ringmaster coat
+256c	white tuxedo jacket
+256d	black-denim jacket
+256e	basketball tank
+256f	iberian jacket
+2570	pink parka
+2571	jockey shirt
+2572	blue track jacket
+2573	sweater-vest
+2574	waistcoat
+2575	black track jacket
+2576	beige emblem blazer
+2577	clerk's shirt
+2578	green warm-up jacket
+2579	blue ringmaster coat
+257a	relay tank
+257b	snowy sweater
+257c	red jacket
+257d	blue jacket
+257e	floral knit tee
+257f	dreamy tee
+2580	pop bloom tee
+2581	silk bloom tee
+2582	blossom tee
+2583	yellow aloha tee
+2584	loud bloom tee
+2585	rose-sky tee
+2586	blue diamond shirt
+2587	lotus tee
+2588	rose tee
+2589	pep-squad tee
+258a	jester shirt
+258b	swell shirt
+258c	go-go shirt
+258d	Festivale tank
+258e	pink pj shirt
+258f	blue pj shirt
+2590	canary shirt
+2591	flight-crew shirt
+2592	café uniform
+2593	peacoat
+2594	shearling coat
+2595	mod shirt
+2596	tacky sweater
+2597	sunflower tee
+2598	green-stripe tank
+2599	gray tank
+259a	preppy shirt
+259b	flowery tee
+259c	HHA tee
+259d	HHA jacket
+259e	Dr. Shrunk's jacket
+259f	24-hour-shop uniform
+25a0	swell tee
+25a1	blue diamond tee
+25a2	raglan tee
+25a3	MVP shirt
+25a4	jade plaid shirt
+25a5	red-check shirt
+25a6	rugby shirt
+25a7	painter's shirt
+25a8	pulse shirt
+25a9	toad shirt
+25aa	sailor's shirt
+25ab	frog shirt
+25ac	blue-grid shirt
+25ad	kung-fu shirt
+25ae	tan dogtooth shirt
+25af	bad plaid shirt
+25b0	fern shirt
+25b1	arctic-camo shirt
+25b2	fall leaf shirt
+25b3	elephant shirt
+25b4	red-grid shirt
+25b5	chain-gang shirt
+25b6	dogtooth shirt
+25b7	moldy shirt
+25b8	waffle shirt
+25b9	vegetarian shirt
+25ba	blue-check shirt
+25bb	picnic shirt
+25bc	natty shirt
+25bd	pink tartan shirt
+25be	checkerboard shirt
+25bf	dark polka shirt
+25c0	lemon gingham shirt
+25c1	brown-bar shirt
+25c2	dazed shirt
+25c3	nebula shirt
+25c4	bubble-gum shirt
+25c5	blue-bar shirt
+25c6	lite polka shirt
+25c7	yellow-bar shirt
+25c8	yellow tartan shirt
+25c9	amethyst shirt
+25ca	soccer shirt
+25cb	grape-stripe shirt
+25cc	red-bar shirt
+25cd	candy gingham shirt
+25ce	skull shirt
+25cf	flame shirt
+25d0	vertigo shirt
+25d1	green-bar shirt
+25d2	gelato shirt
+25d3	dapper shirt
+25d4	desert-camo shirt
+25d5	jungle-camo shirt
+25d6	beatnik shirt
+25d7	gold-bar shirt
+25d8	fall plaid shirt
+25d9	blue tartan shirt
+25da	mint gingham shirt
+25db	bear shirt
+25dc	melon gingham shirt
+25dd	blue plaid shirt
+25de	melon shirt
+25df	watermelon shirt
+25e0	zipper tank
+25e1	misty tank
+25e2	purple tie-dye tank
+25e3	jester tank
+25e4	grape tank
+25e5	sno-cone tank
+25e6	aqua polka tank
+25e7	strawberry tank
+25e8	peachy tank
+25e9	reggae tank
+25ea	blue argyle tank
+25eb	twinkle tank
+25ec	green tie-dye tank
+25ed	cool tank
+25ee	optical tank
+25ef	jagged tank
+25f0	rally tank
+25f1	bubble tank
+25f2	deep-blue tank
+25f3	beaded tank
+25f4	coral tank
+25f5	pink argyle tank
+25f6	funky-dot tank
+25f7	groovy tank
+25f8	fresh tank
+25f9	tropical tank
+25fa	sunset tank
+25fb	citrus tank
+25fc	blue tie-dye tank
+25fd	giraffe tank
+25fe	orange tie-dye tank
+25ff	zebra tank
+2600	tiger tank
+2601	kiwi tank
+2602	red tie-dye tank
+2603	pep-squad tank
+2604	dawn tank
+2605	beatnik tank
+2606	big-dot tank
+2607	rainbow tank
+2608	leopard tank
+2609	cow tank
+260a	genie vest
+260b	cyan argyle tank

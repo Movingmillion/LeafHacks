@@ -1,0 +1,108 @@
+Dresses/Wet Suits
+260c	festive dress
+260d	muumuu
+260e	blue dotted dress
+260f	tan dogtooth dress
+2610	prim outfit
+2611	overall dress
+2612	pink lace-up dress
+2613	academy uniform
+2614	prep-school uniform
+2615	blue party dress
+2616	pink party dress
+2617	yellow dotted dress
+2618	pinafore
+2619	plaid cami dress
+261a	green dress
+261b	butterfly dress
+261c	gaudy dress
+261d	sea captain's coat
+261e	pink-zap suit
+261f	fleece dress
+2620	vogue dress
+2621	citrus gingham dress
+2622	floral knit dress
+2623	dreamy tank dress
+2624	silk bloom dress
+2625	pop bloom dress
+2626	blossom dress
+2627	loud bloom dress
+2628	rose tank dress
+2629	rose-sky tank dress
+262a	lotus tank dress
+262b	blue retro dress
+262c	orange retro dress
+262d	cool dress
+262e	moldy dress
+262f	blossoming dress
+2630	ribbon dress
+2631	blue lace-up dress
+2632	orange lace-up dress
+2633	green lace-up dress
+2634	lime dress
+2635	turnip dress
+2636	yodel dress
+2637	red riding dress
+2638	witch's robe
+2639	graduation gown
+263a	sky dress
+263b	alpinist dress
+263c	kimono
+263d	milkmaid dress
+263e	toga
+263f	cake dress
+2640	waitress dress
+2641	princess dress
+2642	fairy-tale dress
+2643	pink polka dress
+2644	palatial tank dress
+2645	poncho
+2646	fluffy dress
+2647	cat dress
+2648	plum coat
+2649	frock coat
+264a	casual outfit
+264b	maid dress
+264c	trench coat
+264d	pharaoh's outfit
+264e	bathrobe
+264f	polka-dot dress
+2650	patched dress
+2651	black-velvet dress
+2652	dazed dress
+2653	dogtooth dress
+2654	nurse's uniform
+2655	embroidered dress
+2656	Festivale tank dress
+2657	tartan-plaid outfit
+2658	sweater dress
+2659	shirtdress
+265a	red dress
+265b	yellow raincoat
+265c	dollhouse dress
+265d	festive-tree dress
+265e	ballet outfit
+265f	classic dress
+2660	U-R-here dress
+2661	natty dress
+2662	dapper dress
+2663	gumdrop dress
+2664	chima jeogori dress
+2665	spring kimono
+2666	caveman tank dress
+2667	star tank dress
+2668	twinkle tank dress
+2669	pastel-stripe dress
+266a	cat tank dress
+266b	cake tank dress
+266c	fluffy tank dress
+266d	lovely dress
+266e	rental wet suit
+266f	black wet suit
+2670	pink wet suit
+2671	striped wet suit
+2672	green wet suit
+2673	orange wet suit
+2674	red wet suit
+2675	white wet suit
+2676	blue wet suit
