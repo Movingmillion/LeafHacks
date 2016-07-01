@@ -220,67 +220,6 @@ Museum
 2e50	mystic statue
 2e51	ancient statue
 2e52	motherly statue
-// 2e53	2e32	fake
-// 2e54	2e33	fake
-// 2e55	2e34	fake
-// 2e56	2e35	fake
-// 2e57	2e36	fake
-// 2e58	2e38	fake
-// 2e59	2e3a	fake
-// 2e5a	2e3e	fake
-// 2e5b	2e40	fake
-// 2e5c	2e42	fake
-// 2e5d	2e46	fake
-// 2e5e	2e47	fake
-// 2e5f	2e49	fake
-// 2e60	2e4a	fake
-// 2e61	2e4b	fake
-// 2e62	2e4c	fake
-// 2e63	2e4d	fake
-// 2e64	2e4e	fake
-// 2e65	2e4f	fake
-// 2e66	2e50	fake
-// 2e67	2e51	fake
-// 2e68	2e52	fake
-// 2e69	2e32	???1
-// 2e6a	2e33	???1
-// 2e6b	2e34	???1
-// 2e6c	2e35	???1
-// 2e6d	2e36	???1
-// 2e6e	2e37	???1
-// 2e6f	2e38	???1
-// 2e70	2e39	???1
-// 2e71	2e3a	???1
-// 2e72	2e3b	???1
-// 2e73	2e3c	???1
-// 2e74	2e3d	???1
-// 2e75	2e3e	???1
-// 2e76	2e3f	???1
-// 2e77	2e40	???1
-// 2e78	2e41	???1
-// 2e79	2e42	???1
-// 2e7a	2e43	???1
-// 2e7b	2e44	???1
-// 2e7c	2e45	???1
-// 2e7d	2e46	???1
-// 2e7e	2e47	???1
-// 2e7f	2e48	???1
-// 2e80	2e49	???1
-// 2e81	2e4a	???1
-// 2e82	2e32	fake ???1
-// 2e83	2e33	fake ???1
-// 2e84	2e34	fake ???1
-// 2e85	2e35	fake ???1
-// 2e86	2e36	fake ???1
-// 2e87	2e38	fake ???1
-// 2e88	2e3a	fake ???1
-// 2e89	2e3e	fake ???1
-// 2e8a	2e40	fake ???1
-// 2e8b	2e42	fake ???1
-// 2e8c	2e46	fake ???1
-// 2e8d	2e47	fake ???1
-// 2e8e	2e49	fake ???1
-// 2e8f	2e4a	fake ???1
 2e90	amber
 2e91	ammonite
 2e92	coprolite
