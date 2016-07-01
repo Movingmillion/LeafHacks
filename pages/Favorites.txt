@@ -12,6 +12,7 @@ Favorites
 308b  tweeter
 209c  gold nugget
 209d  silver nugget
+2267	SMB3 paper
 
 Fav. Handhelds
 3042  Gold Net
