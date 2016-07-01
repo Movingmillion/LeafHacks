@@ -1,4 +1,4 @@
-Outside Flowers, Trees, Bushes, Fruit	
+Outside Flowers, Trees, Bushes
 009F	Red Tulips
 00A0	White Tulips
 00A1	Yellow Tulips
