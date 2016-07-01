@@ -12,7 +12,7 @@ Favorites
 308b  tweeter
 209c  gold nugget
 209d  silver nugget
-2267	SMB3 paper
+2267  SMB3 paper
 
 Fav. Handhelds
 3042  Gold Net
@@ -27,5 +27,5 @@ Fav. Vegetation
 2053  gold-rose bag
 2051  black-rose bag
 2052  blue-rose bag
-28ae	Jacob's ladder
+28ae  Jacob's ladder
 
