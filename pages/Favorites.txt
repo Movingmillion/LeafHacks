@@ -29,3 +29,6 @@ Fav. Vegetation
 2052  blue-rose bag
 28ae  Jacob's ladder
 
+Fav. Hats
+27c9  royal crown
+27ca  crown
