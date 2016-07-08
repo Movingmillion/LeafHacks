@@ -1,4 +1,6 @@
-Bells, Turnips, Fortunes	
+Bells, Turnips, Fortunes
+
+Bells
 20A7	100 Bells
 20A8	200 Bells
 20A9	300 Bells
