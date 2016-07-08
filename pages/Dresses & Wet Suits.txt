@@ -1,4 +1,6 @@
-Dresses/Wet Suits
+Dresses / Wet Suits
+
+Dresses
 260c	festive dress
 260d	muumuu
 260e	blue dotted dress
@@ -97,6 +99,8 @@ Dresses/Wet Suits
 266b	cake tank dress
 266c	fluffy tank dress
 266d	lovely dress
+
+Wet Suits
 266e	rental wet suit
 266f	black wet suit
 2670	pink wet suit
