@@ -107,6 +107,8 @@ Bells, Turnips, Fortunes
 2110	97,000 Bells
 2111	98,000 Bells
 2112	99,000 Bells
+
+Turnips
 227b	10 turnips
 227c	20 turnips
 227d	30 turnips
@@ -118,6 +120,8 @@ Bells, Turnips, Fortunes
 2283	90 turnips
 2284	100 turnips
 2285	spoiled turnips
+
+Fortunes
 30AE	Fortune Cookie
 30af	fortune #1
 30b0	fortune #2
