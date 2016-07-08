@@ -1,4 +1,6 @@
-Weeds, Rocks
+Weeds / Rocks
+
+Weeds
 007C	Weed 1
 007D	Weed 2
 007E	Weed 3
@@ -7,6 +9,8 @@ Weeds, Rocks
 00CC	Clovers (Weed)
 00CD	Rafflesia
 00F8	Rafflesia (Wilted)
+
+Rocks
 0098	Rock 1
 0099	Rock 2
 009A	Rock 3
