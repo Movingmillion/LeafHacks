@@ -13,6 +13,7 @@ Favorites
 209c  gold nugget
 209d  silver nugget
 2267  SMB3 paper
+30AE	Fortune Cookie
 
 Fav. Handhelds
 3042  Gold Net
