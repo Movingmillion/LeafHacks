@@ -1,0 +1,86 @@
+009F	Red Tulips
+00A0	White Tulips
+00A1	Yellow Tulips
+00A2	Pink Tulips
+00A3	Purple Tulips
+00A4	Black Tulips
+00A5	Orange Tulips
+00A6	White Pansies
+00A7	Yellow Pansies
+00A8	Red Pansies
+00A9	Purple Pansies
+00AA	Orange Pansies
+00AB	Blue Pansies
+00AC	White Comsos
+00AD	Red Cosmos
+00AE	Sun Cosmos
+00AF	Pink Cosmos
+00B0	Orange Cosmos
+00B1	Black Cosmos
+00B2	Red Roses
+00B3	White Roses
+00B4	Yellow Roses
+00B5	Pink Roses
+00B6	Orange Roses
+00B7	Purple Roses
+00B8	Black Roses
+00B9	Blue Roses
+00BA	Gold Roses
+00BB	Red Carnations
+00BC	Pink Carnations
+00BD	White Carnations 
+00BE	White Lilies
+00BF	Yellow Lilies
+00C0	Red Lilies
+00C1	Orange Lilies
+00C2	Pink Lilies
+00C3	Black Lilies
+00C4	Purple Violets
+00C5	Blue Violets
+00C6	White Violets
+00C7	Yellow Violets
+00C8	Jacob's Ladder
+00C9	Lucky Clovers
+00CA	Dandelion
+00CE	Red Tulips (Wilted)
+00CF	White Tulips (Wilted)
+00D0	Yellow Tulips (Wilted)
+00D1	Pink Tulips (Wilted)
+00D2	Purple Tulips (Wilted)
+00D3	Black Tulips (Wilted)
+00D4	Orange Tulips (Wilted)
+00D5	White Pansies (Wilted)
+00D6	Yellow Pansies (Wilted)
+00D7	Red Pansies (Wilted)
+00D8	Purple Pansies (Wilted)
+00D9	Orange Pansies (Wilted)
+00DA	Blue Pansies (Wilted)
+00DB	White Cosmos (Wilted)
+00DC	Red Cosmos (Wilted)
+00DD	Sun Cosmos (Wilted)
+00DE	Pink Cosmos (Wilted)
+00DF	Orange Cosmos (Wilted)
+00E0	Black Cosmos (Wilted)
+00E1	Red Roses (Wilted)
+00E2	White Roses (Wilted)
+00E3	Yellow Roses (Wilted)
+00E4	Pink Roses (Wilted)
+00E5	Orange Roses (Wilted)
+00E6	Purple Roses (Wilted)
+00E7	Black Roses (Wilted)
+00E8	Blue Roses (Wilted)
+00E9	Gold Roses (Wilted)
+00EA	Red Carnations (Wilted)
+00EB	Pink Carnations (Wilted)
+00EC	White Carnations (Wilted)
+00ED	White Lilies (Wilted)
+00EE	Yellow Lilies (Wilted)
+00EF	Red Lilies (Wilted)
+00F0	Orange Lilies (Wilted)
+00F1	Pink Lilies (Wilted)
+00F2	Black Lilies (Wilted)
+00F3	Purple Violets (Wilted)
+00F4	Blue Violets (Wilted)
+00F5	White Violets (Wilted)
+00F6	Yellow Violets (Wilted)
+00F7	Jacob's Ladder (Wilted)
