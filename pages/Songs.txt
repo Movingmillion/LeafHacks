@@ -5,7 +5,7 @@ Songs
 2129	K.K. Swing
 212a	K.K. Jazz
 212b	K.K. Fusion
-212c	K.K. Étude
+212c	K.K. Ã‰tude
 212d	K.K. Lullaby
 212e	K.K. Aria
 212f	K.K. Samba
@@ -48,9 +48,9 @@ Songs
 2154	K.K. Dirge
 2155	K.K. Western
 2156	Mr. K.K.
-2157	Café K.K.
+2157	CafÃ© K.K.
 2158	K.K. Parade
-2159	Señor K.K.
+2159	SeÃ±or K.K.
 215a	K.K. Song
 215b	I Love You
 215c	Two Days Ago
@@ -90,13 +90,15 @@ Songs
 217e	K.K. Synth
 217f	K.K. Disco
 2180	K.K. Birthday
+
+Number 1?
 2184	K.K. Chorale (1)
 2185	K.K. March (1)
 2186	K.K. Waltz (1)
 2187	K.K. Swing (1)
 2188	K.K. Jazz (1)
 2189	K.K. Fusion (1)
-218a	K.K. Étude (1)
+218a	K.K. Ã‰tude (1)
 218b	K.K. Lullaby (1)
 218c	K.K. Aria (1)
 218d	K.K. Samba (1)
@@ -139,9 +141,9 @@ Songs
 21b2	K.K. Dirge (1)
 21b3	K.K. Western (1)
 21b4	Mr. K.K. (1)
-21b5	Café K.K. (1)
+21b5	CafÃ© K.K. (1)
 21b6	K.K. Parade (1)
-21b7	Señor K.K. (1)
+21b7	SeÃ±or K.K. (1)
 21b8	K.K. Song (1)
 21b9	I Love You (1)
 21ba	Two Days Ago (1)
@@ -181,13 +183,15 @@ Songs
 21dc	K.K. Synth (1)
 21dd	K.K. Disco (1)
 21de	K.K. Birthday (1)
+
+Number 2?
 21df	K.K. Chorale (2)
 21e0	K.K. March (2)
 21e1	K.K. Waltz (2)
 21e2	K.K. Swing (2)
 21e3	K.K. Jazz (2)
 21e4	K.K. Fusion (2)
-21e5	K.K. Étude (2)
+21e5	K.K. Ã‰tude (2)
 21e6	K.K. Lullaby (2)
 21e7	K.K. Aria (2)
 21e8	K.K. Samba (2)
@@ -230,9 +234,9 @@ Songs
 220d	K.K. Dirge (2)
 220e	K.K. Western (2)
 220f	Mr. K.K. (2)
-2210	Café K.K. (2)
+2210	CafÃ© K.K. (2)
 2211	K.K. Parade (2)
-2212	Señor K.K. (2)
+2212	SeÃ±or K.K. (2)
 2213	K.K. Song (2)
 2214	I Love You (2)
 2215	Two Days Ago (2)
