@@ -1,4 +1,6 @@
-Paper/ V. Pics
+Paper / Villager Pictures
+
+Paper
 223a	butterfly paper
 223b	airmail paper
 223c	New Year's cards
@@ -64,6 +66,8 @@ Paper/ V. Pics
 2278	museum paper
 2279	post-office paper
 227a	melody paper
+
+Villager Pictures
 2ee7	Pic of Cyrano
 2ee8	Pic of Antonio
 2ee9	Pic of Pango
@@ -356,7 +360,7 @@ Paper/ V. Pics
 3008	Pic of Tank
 3009	Pic of Rhonda
 300a	Pic of Merengue
-300b	Pic of Renée
+300b	Pic of RenÃ©e
 300c	Pic of Vesta
 300d	Pic of Baabara
 300e	Pic of Eunice
