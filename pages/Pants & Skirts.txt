@@ -1,4 +1,4 @@
-Pants/Skirts
+Pants / Skirts
 2679	jungle-camo shorts
 267a	jungle-camo pants
 267b	cargo pants
