@@ -1,4 +1,6 @@
 Uncategorized
+
+Environment Starters / Gifts
 202A	Fossil
 202b	fertilizer
 202c	sapling
@@ -56,6 +58,8 @@ Uncategorized
 2084	wrapping paper
 2085	medicine
 2086	chocolate heart
+
+Shells / Candy
 2087	pearl-oyster shell
 2088	conch shell
 2089	giant-clam shell
@@ -68,6 +72,8 @@ Uncategorized
 2090	oyster shell
 2091	candy
 2092	lollipop
+
+Mushrooms / Traps
 2093	elegant mushroom
 2094	round mushroom
 2095	skinny mushroom
@@ -77,41 +83,37 @@ Uncategorized
 2099	beehive
 209a	pitfall seed
 209b	tricky pitfall seed
+
+Ores
 209c	gold nugget
 209d	silver nugget
 209e	ruby
 209f	sapphire
 20a0	emerald
 20a1	amethyst
+
+Ingredients
 20a2	butter
 20a3	milk
 20a4	vinegar
 20a5	flour
 20a6	sugar
+
+Prizes
 2113	earth egg
 2114	tree egg
 2115	stone egg
 2116	sky egg
 2117	winning ticket
 2118	grand-prize ticket
-	
-2119	forest wall (mushroomized)
-211a	forest floor (mushroomized)
-211b	mush bed (mushroomized)
-211c	mush dresser (mushroomized)
-211d	mush closet (mushroomized)
-211e	mush chair (mushroomized)
-211f	mush stool (mushroomized)
-2120	mush table (mushroomized)
-2121	mush end table (mushroomized)
-2122	mush lamp (mushroomized)
-2123	mush wall lamp (mushroomized)
-2124	mush TV (mushroomized)
-2125	mush hanger (mushroomized)
+
+Mannequins
 2e2c	mannequin 1
 2e2d	mannequin 2
 2e2e	mannequin 3
 2e2f	mannequin 4
+
+Drinks
 307b	coffee
 307c	sparkling cider
 307d	beans
@@ -124,6 +126,8 @@ Uncategorized
 3084	strawberry ice cream
 3085	lemon double scoop
 3086	mint double scoop
+
+Wands / Fireworks / Celebration
 3087	blue glow wand
 3088	green glow wand
 3089	pink glow wand
@@ -133,10 +137,14 @@ Uncategorized
 308d	used firework
 308e	Santa bag
 308f	mystery bag
+
+Coffee Beans
 3090	normal coffee beans
 3091	good coffee beans
 3092	superb coffee beans
 3093	chocolate coin
+
+Villager Items
 30a2	signature sheet
 30a3	petition form
 30a4	paper scrap
@@ -149,6 +157,8 @@ Uncategorized
 30ab	mitten
 30ac	paper bag
 30ad	towel
+
+Festival Prizes
 30e1	Redd's cookie
 30e2	dud ticket
 30e3	flash ticket
@@ -159,6 +169,8 @@ Uncategorized
 30e8	crackle ticket
 30e9	kaboom ticket
 30ea	pop ticket
+
+Villager Items
 30f9	bingo card
 30fa	expired bingo card
 30fb	time capsule
