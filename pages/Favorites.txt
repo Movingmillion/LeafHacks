@@ -9,7 +9,6 @@ Favorites
 307c  sparkling cider
 209b  tricky pitfall seed
 209a  pitfall seed
-308b  tweeter
 209c  gold nugget
 209d  silver nugget
 2267  SMB3 paper
@@ -23,6 +22,7 @@ Fav. Handhelds
 3052  Golden Slingshot
 303E  Gold Axe
 3054  Toy Hammer
+308b  tweeter
 
 Fav. Vegetation
 2053  gold-rose bag
