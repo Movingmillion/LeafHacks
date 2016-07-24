@@ -10,3 +10,4 @@ Type in the ID of the item you want and press X + D Pad Right to write that item
 # Sources:
 [ID List](https://github.com/kwsch/NLSE/blob/master/Resources/text/item_en.txt)  
 [Text2Item](https://gbatemp.net/threads/release-animal-crossing-new-leaf-text2item-ntr-plugin.420529/)
+# https://goo.gl/ATgV0x
