@@ -177,53 +177,53 @@ Fortunes
 30e0	fortune #50
 
 Fortune Key
-1-Up Mushroom	Fortune Cookie #24
-? Block	Fortune Cookie #25
-Arwing	Fortune Cookie #36
-Bad Bro's Stache	Fortune Cookie #44
+1-Up Mushroom	      Fortune Cookie #24
+? Block	            Fortune Cookie #25
+Arwing	            Fortune Cookie #36
+Bad Bro's Stache	  Fortune Cookie #44
 Big Bro's Mustache	Fortune Cookie #45
-Bill Blaster	Fortune Cookie #28
-Block	Fortune Cookie #17
-Block Floor	Fortune Cookie #02
-Blue Falcon	Fortune Cookie #34
-Blue Pikmin	Fortune Cookie #14
-Coin	Fortune Cookie #18
-Fi Mask	Fortune Cookie #50
-Fire Bar	Fortune Cookie #27
-Fire Flower	Fortune Cookie #20
-Goal Pole	Fortune Cookie #19
-Green Shell	Fortune Cookie #22
-Hero's Boots	Fortune Cookie #49
-Hero's Cap	Fortune Cookie #08
-Hero's Clothes	Fortune Cookie #03
-Hero's Pants	Fortune Cookie #05
-Kart	Fortune Cookie #32
-Majora's Mask	Fortune Cookie #09
-Master Sword	Fortune Cookie #35
-Metroid	Fortune Cookie #47
-Midna's Mask	Fortune Cookie #11
-Mushroom Mural	Fortune Cookie #01
-Peach's Parasol	Fortune Cookie #07
-Pikmin	Fortune Cookie #33
-Pipe	Fortune Cookie #26
-Random Item	Fortune Cookie #16
-Random Item	Fortune Cookie #06
-Random Item	Fortune Cookie #30
-Random Item	Fortune Cookie #04
-Random Item	Fortune Cookie #38
-Red Pikmin	Fortune Cookie #13
-S.S. Dolphin	Fortune Cookie #39
-Samus Mask	Fortune Cookie #10
-Super Mushroom	Fortune Cookie #21
-Super Star	Fortune Cookie #23
-Toad Hat	Fortune Cookie #12
-Triforce	Fortune Cookie #37
-Triple Bananas	Fortune Cookie #48
-Triple Red Shells	Fortune Cookie #31
-Varia Suit	Fortune Cookie #46
-Varia Suit Pants	Fortune Cookie #42
-Varia Suit Shoes	Fortune Cookie #43
-Virtual Boy	Fortune Cookie #40
-Wii Balance Board	Fortune Cookie #41
-Yellow Pikmin	Fortune Cookie #15
-Yoshi's Egg	Fortune Cookie #29
+Bill Blaster	      Fortune Cookie #28
+Block	              Fortune Cookie #17
+Block Floor	        Fortune Cookie #02
+Blue Falcon	        Fortune Cookie #34
+Blue Pikmin	        Fortune Cookie #14
+Coin	              Fortune Cookie #18
+Fi Mask	            Fortune Cookie #50
+Fire Bar	          Fortune Cookie #27
+Fire Flower	        Fortune Cookie #20
+Goal Pole	          Fortune Cookie #19
+Green Shell	        Fortune Cookie #22
+Hero's Boots	      Fortune Cookie #49
+Hero's Cap	        Fortune Cookie #08
+Hero's Clothes	    Fortune Cookie #03
+Hero's Pants	      Fortune Cookie #05
+Kart	              Fortune Cookie #32
+Majora's Mask	      Fortune Cookie #09
+Master Sword	      Fortune Cookie #35
+Metroid	            Fortune Cookie #47
+Midna's Mask        Fortune Cookie #11
+Mushroom Mural	    Fortune Cookie #01
+Peach's Parasol	    Fortune Cookie #07
+Pikmin	            Fortune Cookie #33
+Pipe	              Fortune Cookie #26
+Random Item	        Fortune Cookie #16
+Random Item	        Fortune Cookie #06
+Random Item	        Fortune Cookie #30
+Random Item	        Fortune Cookie #04
+Random Item	        Fortune Cookie #38
+Red Pikmin	        Fortune Cookie #13
+S.S. Dolphin	      Fortune Cookie #39
+Samus Mask	        Fortune Cookie #10
+Super Mushroom	    Fortune Cookie #21
+Super Star	        Fortune Cookie #23
+Toad Hat	          Fortune Cookie #12
+Triforce	          Fortune Cookie #37
+Triple Bananas	    Fortune Cookie #48
+Triple Red Shells	  Fortune Cookie #31
+Varia Suit          Fortune Cookie #46
+Varia Suit Pants	  Fortune Cookie #42
+Varia Suit Shoes	  Fortune Cookie #43
+Virtual Boy	        Fortune Cookie #40
+Wii Balance Board	  Fortune Cookie #41
+Yellow Pikmin	      Fortune Cookie #15
+Yoshi's Egg	        Fortune Cookie #29
