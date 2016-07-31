@@ -10,4 +10,5 @@ Type in the ID of the item you want and press X + D Pad Right to write that item
 # Sources:
 [ID List](https://github.com/kwsch/NLSE/blob/master/Resources/text/item_en.txt)  
 [Text2Item](https://gbatemp.net/threads/release-animal-crossing-new-leaf-text2item-ntr-plugin.420529/)  
-[LeafTools](https://gbatemp.net/threads/release-spider-leaftools-animal-crossing-new-leaf-spiderhax.383773/)
+[LeafTools](https://gbatemp.net/threads/release-spider-leaftools-animal-crossing-new-leaf-spiderhax.383773/)  
+[ACNL Music Swap](https://gbatemp.net/threads/wip-animal-crossing-new-leaf-music-swap.403386/)
