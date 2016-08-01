@@ -23,6 +23,7 @@ Fav. Handhelds
 303E  Gold Axe
 3054  Toy Hammer
 308b  tweeter
+307d  beans
 
 Fav. Vegetation
 2053  gold-rose bag
