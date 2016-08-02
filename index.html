@@ -4,6 +4,24 @@ xmlns:w="urn:schemas-microsoft-com:office:word"
 xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
 xmlns="http://www.w3.org/TR/REC-html40">
 
+<script type="text/javascript">
+function search() {
+var iid = myIID;
+var guide_id = myPID;
+var search_val = document.getElementById('txt_search').value;
+var url = 'search.php?iid=' + iid + '&c=0&gid=0&pid=' + guide_id + '&search=' + search_val;
+
+window.location.href = url;
+
+return false;
+}
+</script>
+<form id="frm_search" name="frm_search" onsubmit="return search();">
+Search this guide
+<input id="txt_search" name="txt_search" type="text" />
+<input onclick="search();" value="Go" type="button" />
+</form>
+
 <!DOCTYPE html>
 <html>
 <head>
