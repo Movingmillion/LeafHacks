@@ -4,28 +4,6 @@ xmlns:w="urn:schemas-microsoft-com:office:word"
 xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
 xmlns="http://www.w3.org/TR/REC-html40">
 
-<script type="text/javascript">
-
-function init()
-{
-    //creates a variable equal to the value entered in the text box
-    var lookfor = document.getElementById("q").value
-    //splits the whole page into an array or words
-    var words = document.body.innerHTML.split(" ");
-    ///loops through the array to get each word
-    for( var i=0; i<words.length; i++)
-    {      
-        //This is where I get lost, i dont know how to make it so that what you enter
-        //in the textbox(lookfor) matches somthing on the page. it will get highlighted. i
-        //was thinking about using the find object, but im new to javascript and dont know 
-        //how to properly use find yet.
-        if(lookfor == words[i]) //Find()------
-        { 
-            '<span class="highlight">' + words + '</span>'
-        }        
-    }
-}
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -58,6 +36,28 @@ input[type=text]:focus {
 
 </body>
 </html>
+
+<script type="text/javascript">
+
+function init()
+{
+    //creates a variable equal to the value entered in the text box
+    var lookfor = document.getElementById("q").value
+    //splits the whole page into an array or words
+    var words = document.body.innerHTML.split(" ");
+    ///loops through the array to get each word
+    for( var i=0; i<words.length; i++)
+    {      
+        //This is where I get lost, i dont know how to make it so that what you enter
+        //in the textbox(lookfor) matches somthing on the page. it will get highlighted. i
+        //was thinking about using the find object, but im new to javascript and dont know 
+        //how to properly use find yet.
+        if(lookfor == words[i]) //Find()------
+        { 
+            '<span class="highlight">' + words + '</span>'
+        }        
+    }
+}
 
 <head>
 <meta http-equiv=Content-Type content="text/html; charset=windows-1252">
