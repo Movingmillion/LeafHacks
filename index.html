@@ -4,53 +4,37 @@ xmlns:w="urn:schemas-microsoft-com:office:word"
 xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
 xmlns="http://www.w3.org/TR/REC-html40">
 
-<script type="text/javascript">
-function search() {
-var iid = myIID;
-var guide_id = myPID;
-var search_val = document.getElementById('txt_search').value;
-var url = 'search.php?iid=' + iid + '&c=0&gid=0&pid=' + guide_id + '&search=' + search_val;
-
-window.location.href = url;
-
-return false;
-}
-</script>
-<form id="frm_search" name="frm_search" onsubmit="return search();">
-Search this guide
-<input id="txt_search" name="txt_search" type="text" />
-<input onclick="search();" value="Go" type="button" />
-</form>
-
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-input[type=text] {
-    width: 130px;
-    box-sizing: border-box;
-    border: 2px solid #ccc;
-    border-radius: 4px;
-    font-size: 16px;
-    background-color: white;
-    background-image: url('searchicon.png');
-    background-position: 10px 10px;
-    background-repeat: no-repeat;
-    padding: 12px 20px 12px 40px;
-    -webkit-transition: width 0.4s ease-in-out;
-    transition: width 0.4s ease-in-out;
-}
-
-input[type=text]:focus {
-    width: 100%;
-}
-</style>
-</head>
-<body>
+<div id="playground">
 
 <form>
-  <input type="text" name="search" placeholder="Search...">
+<p>Highlight keywords as you type: <input id="keywords" size="24"></p>
 </form>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Vivamus felis erat, facilisis vitae est sed, interdum luctus dui. Donec 
+condimentum in neque ac consequat. Donec interdum quis massa molestie 
+consequat. Pellentesque habitant morbi tristique senectus et netus et 
+malesuada fames ac turpis egestas. Vestibulum malesuada quam quis sapien 
+volutpat placerat. Phasellus varius, enim vel fringilla pellentesque, 
+felis velit mollis lacus, ac scelerisque sem sem sed eros.</p>
+
+</div>
+
+<script type="text/javascript" src="hilitor.js"></script>
+<script type="text/javascript">
+
+  var myHilitor2;
+
+  document.addEventListener("DOMContentLoaded", function() {
+    myHilitor2 = new Hilitor("playground");
+    myHilitor2.setMatchType("left");
+  }, false);
+
+  document.getElementById("keywords").addEventListener("keyup", function() {
+    myHilitor2.apply(this.value);
+  }, false);
+
+</script>
 
 </body>
 </html>
