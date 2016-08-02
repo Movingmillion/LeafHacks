@@ -37,6 +37,24 @@ input[type=text]:focus {
 </body>
 </html>
 
+<script type="text/javascript">
+function search() {
+var iid = myIID;
+var guide_id = myPID;
+var search_val = document.getElementById('txt_search').value;
+var url = 'search.php?iid=' + iid + '&c=0&gid=0&pid=' + guide_id + '&search=' + search_val;
+
+window.location.href = url;
+
+return false;
+}
+</script>
+<form id="frm_search" name="frm_search" onsubmit="return search();">
+Search this guide
+<input id="txt_search" name="txt_search" type="text" />
+<input onclick="search();" value="Go" type="button" />
+</form>
+
 <head>
 <meta http-equiv=Content-Type content="text/html; charset=windows-1252">
 <meta name=ProgId content=Word.Document>
