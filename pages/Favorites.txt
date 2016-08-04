@@ -34,3 +34,8 @@ Fav. Vegetation
 Fav. Hats
 27c9  royal crown
 27ca  crown
+
+Fav. Environment
+2001  Apple
+0070  Money Tree
+003e  Apple Tree
