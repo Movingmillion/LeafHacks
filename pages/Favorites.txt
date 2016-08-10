@@ -23,19 +23,19 @@ Fav. Handhelds
 303E   Gold Axe
 3054   Toy Hammer
 308b   tweeter
-307d  beans
+307d   beans
 
 Fav. Vegetation
-2053  gold-rose bag
-2051  black-rose bag
-2052  blue-rose bag
-28ae  Jacob's ladder
+2053   gold-rose bag
+2051   black-rose bag
+2052   blue-rose bag
+28ae   Jacob's ladder
 
 Fav. Hats
-27c9  royal crown
-27ca  crown
+27c9   royal crown
+27ca   crown
 
 Fav. Environment
-2001  Apple
-0070  Money Tree
-003e  Apple Tree
+2001   Apple
+0070   Money Tree
+003e   Apple Tree
