@@ -1,6 +1,7 @@
 # http://sirbeethoven.github.io/LeafHacks/
 # LeafHacks
 A hub for ACNL item ID's! To be used with [these ACNL Hacks!](https://gbatemp.net/threads/release-animal-crossing-new-leaf-multi-cheat-ntr-plugin.428522/)  
+Go [here](http://moridb.com) to see what an item looks like before you spawn it in!  
 # Usage:
 Type in the ID of the item you want and press X + D Pad Right to write that item to slot 1 of your inventory. This works online and offline but you need to be the host.
 # Tools:
@@ -15,4 +16,3 @@ Type in the ID of the item you want and press X + D Pad Right to write that item
 [ACNL Rom Hacking](https://gbatemp.net/threads/animal-crossing-new-leaf-rom-hacking.401093/)  
 [Animal Crossing: Wild Leaf](https://gbatemp.net/threads/release-animal-crossing-wild-leaf.402337/)  
 # [goo.gl/Q5vw3N](http://goo.gl/Q5vw3N)
-
