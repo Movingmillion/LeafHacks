@@ -1,41 +1,42 @@
 Favorites
-7FFE   Nothing
-009D   Pattern
-20A7   100 Bells
-2112   99,000 Bells
-2284   100 turnips
-2098   famous mushroom
-307b   coffee
-307c   sparkling cider
-209b   tricky pitfall seed
-209a   pitfall seed
-209c   gold nugget
-209d   silver nugget
-2267   SMB3 paper
-30AE   Fortune Cookie
+7FFE    Nothing
+009D    Pattern
+20A7    100 Bells
+2112    99,000 Bells
+2284    100 turnips
+2098    famous mushroom
+307b    coffee
+307c    sparkling cider
+209b    tricky pitfall seed
+209a    pitfall seed
+209c    gold nugget
+209d    silver nugget
+2267    SMB3 paper
+30AE    Fortune Cookie
 
 Fav. Handhelds
-3042   Gold Net
-3046   Gold Rod
-304A   Gold Shovel
-304E   Golden Can
-3052   Golden Slingshot
-303E   Gold Axe
-3054   Toy Hammer
-308b   tweeter
-307d   beans
+3042    Gold Net
+3046    Gold Rod
+304A    Gold Shovel
+304E    Golden Can
+3052    Golden Slingshot
+303E    Gold Axe
+3054    Toy Hammer
+308b    tweeter
+307d    beans
 
 Fav. Vegetation
-2053   gold-rose bag
-2051   black-rose bag
-2052   blue-rose bag
-28ae   Jacob's ladder
+2053    gold-rose bag
+2051    black-rose bag
+2052    blue-rose bag
+28ae    Jacob's ladder
 
 Fav. Hats
-27c9   royal crown
-27ca   crown
+27c9    royal crown
+27ca    crown
 
 Fav. Environment
-2001   Apple
-0070   Money Tree
-003e   Apple Tree
+2001    Apple
+0070    Money Tree
+003e    Apple Tree
+8000    Invalid
