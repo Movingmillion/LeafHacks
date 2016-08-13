@@ -41,3 +41,4 @@ Fav. Environment
 0070    Money Tree
 003e    Apple Tree
 8000    Invalid
+308c    Fountain Firework
