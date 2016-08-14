@@ -126,7 +126,7 @@ Turnips
 Fortunes
 30AE	Fortune Cookie
 30af	fortune #1
-30b0	fortune #2
+30b0	fortune #2 (Block Floor)
 30b1	fortune #3
 30b2	fortune #4
 30b3	fortune #5
@@ -138,29 +138,29 @@ Fortunes
 30b9	fortune #11
 30ba	fortune #12
 30bb	fortune #13
-30bc	fortune #14
+30bc	fortune #14 (Blue Pikmin)
 30bd	fortune #15
 30be	fortune #16
-30bf	fortune #17
-30c0	fortune #18
-30c1	fortune #19
-30c2	fortune #20
+30bf	fortune #17 (Block)
+30c0	fortune #18 (Coin)
+30c1	fortune #19 (Goal Pole)
+30c2	fortune #20 (Fire Flower)
 30c3	fortune #21
-30c4	fortune #22
+30c4	fortune #22 (Green Shell)
 30c5	fortune #23
-30c6	fortune #24
-30c7	fortune #25
+30c6	fortune #24 (1-Up Mushroom)
+30c7	fortune #25 (? Block)
 30c8	fortune #26
-30c9	fortune #27
-30ca	fortune #28
+30c9	fortune #27 (Fire Bar)
+30ca	fortune #28 (Bill Blaster)
 30cb	fortune #29
 30cc	fortune #30
 30cd	fortune #31
 30ce	fortune #32
 30cf	fortune #33
-30d0	fortune #34
+30d0	fortune #34 (Blue Falcon)
 30d1	fortune #35
-30d2	fortune #36
+30d2	fortune #36 (Airwing)
 30d3	fortune #37
 30d4	fortune #38
 30d5	fortune #39
@@ -168,16 +168,16 @@ Fortunes
 30d7	fortune #41
 30d8	fortune #42
 30d9	fortune #43
-30da	fortune #44
-30db	fortune #45
+30da	fortune #44 (Bad Bro's Stache)
+30db	fortune #45 (Big Bro's Mustache)
 30dc	fortune #46
 30dd	fortune #47
 30de	fortune #48
 30df	fortune #49
-30e0	fortune #50
+30e0	fortune #50 (Fi Mask)
 
 Fortune Key
-1-Up Mushroom	      Fortune Cookie #24
+1-Up Mushroom	      #24
 ? Block	            Fortune Cookie #25
 Arwing	            Fortune Cookie #36
 Bad Bro's Stache	  Fortune Cookie #44
@@ -191,8 +191,10 @@ Coin	              Fortune Cookie #18
 Fi Mask	            Fortune Cookie #50
 Fire Bar	          Fortune Cookie #27
 Fire Flower	        Fortune Cookie #20
-Goal Pole	          Fortune Cookie #19
-Green Shell	        Fortune Cookie #22
+
+
+
+
 Hero's Boots	      Fortune Cookie #49
 Hero's Cap	        Fortune Cookie #08
 Hero's Clothes	    Fortune Cookie #03
