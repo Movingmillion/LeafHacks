@@ -1,6 +1,5 @@
 Favorites
 7FFE    Nothing
-009D    Pattern
 20A7    100 Bells
 2112    99,000 Bells
 2284    100 turnips
@@ -41,4 +40,5 @@ Fav. Environment
 2018    Apple Basket
 0070    Money Tree
 003e    Apple Tree
+009D    Pattern
 8000    Invalid
