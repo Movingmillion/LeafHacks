@@ -125,84 +125,53 @@ Turnips
 
 Fortunes
 30AE	Fortune Cookie
-30af	fortune #1
+30af	fortune #1 (Mushroom Mural)
 30b0	fortune #2 (Block Floor)
 30b1	fortune #3 (Hero's Clothes)
-30b2	fortune #4
+30b2	fortune #4 (-Random Item-)
 30b3	fortune #5 (Hero's Pants)
-30b4	fortune #6
-30b5	fortune #7
+30b4	fortune #6 (-Random Item-)
+30b5	fortune #7 (Peach's Parasol)
 30b6	fortune #8 (Hero's Cap)
-30b7	fortune #9
-30b8	fortune #10
-30b9	fortune #11
-30ba	fortune #12
-30bb	fortune #13
+30b7	fortune #9 (Majora's Mask)
+30b8	fortune #10 (Samus Mask)
+30b9	fortune #11 (Midna's Mask)
+30ba	fortune #12 (Toad Hat)
+30bb	fortune #13 (Red Pikmin)
 30bc	fortune #14 (Blue Pikmin)
-30bd	fortune #15
-30be	fortune #16
+30bd	fortune #15 (Yellow Pikmin)
+30be	fortune #16 (-Random Item-)
 30bf	fortune #17 (Block)
 30c0	fortune #18 (Coin)
 30c1	fortune #19 (Goal Pole)
 30c2	fortune #20 (Fire Flower)
-30c3	fortune #21
+30c3	fortune #21 (Super Mushroom)
 30c4	fortune #22 (Green Shell)
-30c5	fortune #23
+30c5	fortune #23 (Super Star)
 30c6	fortune #24 (1-Up Mushroom)
 30c7	fortune #25 (? Block)
-30c8	fortune #26
+30c8	fortune #26 (Pipe)
 30c9	fortune #27 (Fire Bar)
 30ca	fortune #28 (Bill Blaster)
 30cb	fortune #29 (Yoshi's Egg)
-30cc	fortune #30
-30cd	fortune #31
-30ce	fortune #32
-30cf	fortune #33
+30cc	fortune #30 (-Random Item-)
+30cd	fortune #31 (Triple Red Shells)
+30ce	fortune #32 (Kart)
+30cf	fortune #33 (Pikmin)
 30d0	fortune #34 (Blue Falcon)
-30d1	fortune #35
+30d1	fortune #35 (Master Sword)
 30d2	fortune #36 (Airwing)
-30d3	fortune #37
-30d4	fortune #38
-30d5	fortune #39
-30d6	fortune #40
-30d7	fortune #41
-30d8	fortune #42
-30d9	fortune #43
+30d3	fortune #37 (Triforce)
+30d4	fortune #38 (-Random Item-)
+30d5	fortune #39 (S.S. Dolphin)
+30d6	fortune #40 (Virtual Boy)
+30d7	fortune #41 (Wii Balance Board)
+30d8	fortune #42 (Varia Suit Pants)
+30d9	fortune #43 (Varia Suit Shoes)
 30da	fortune #44 (Bad Bro's Stache)
 30db	fortune #45 (Big Bro's Mustache)
-30dc	fortune #46
-30dd	fortune #47
-30de	fortune #48
+30dc	fortune #46 (Varia Suit)
+30dd	fortune #47 (Metroid)
+30de	fortune #48 (Triple Bananas)
 30df	fortune #49 (Hero's Boots)
 30e0	fortune #50 (Fi Mask)
-
-Fortune Key
-Kart	              Fortune Cookie #32
-Majora's Mask	      Fortune Cookie #09
-Master Sword	      Fortune Cookie #35
-Metroid	            Fortune Cookie #47
-Midna's Mask        Fortune Cookie #11
-Mushroom Mural	    Fortune Cookie #01
-Peach's Parasol	    Fortune Cookie #07
-Pikmin	            Fortune Cookie #33
-Pipe	              Fortune Cookie #26
-Random Item	        Fortune Cookie #16
-Random Item	        Fortune Cookie #06
-Random Item	        Fortune Cookie #30
-Random Item	        Fortune Cookie #04
-Random Item	        Fortune Cookie #38
-Red Pikmin	        Fortune Cookie #13
-S.S. Dolphin	      Fortune Cookie #39
-Samus Mask	        Fortune Cookie #10
-Super Mushroom	    Fortune Cookie #21
-Super Star	        Fortune Cookie #23
-Toad Hat	          Fortune Cookie #12
-Triforce	          Fortune Cookie #37
-Triple Bananas	    Fortune Cookie #48
-Triple Red Shells	  Fortune Cookie #31
-Varia Suit          Fortune Cookie #46
-Varia Suit Pants	  Fortune Cookie #42
-Varia Suit Shoes	  Fortune Cookie #43
-Virtual Boy	        Fortune Cookie #40
-Wii Balance Board	  Fortune Cookie #41
-Yellow Pikmin	      Fortune Cookie #15
