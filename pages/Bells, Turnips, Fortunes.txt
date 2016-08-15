@@ -127,12 +127,12 @@ Fortunes
 30AE	Fortune Cookie
 30af	fortune #1
 30b0	fortune #2 (Block Floor)
-30b1	fortune #3
+30b1	fortune #3 (Hero's Clothes)
 30b2	fortune #4
-30b3	fortune #5
+30b3	fortune #5 (Hero's Pants)
 30b4	fortune #6
 30b5	fortune #7
-30b6	fortune #8
+30b6	fortune #8 (Hero's Cap)
 30b7	fortune #9
 30b8	fortune #10
 30b9	fortune #11
@@ -153,7 +153,7 @@ Fortunes
 30c8	fortune #26
 30c9	fortune #27 (Fire Bar)
 30ca	fortune #28 (Bill Blaster)
-30cb	fortune #29
+30cb	fortune #29 (Yoshi's Egg)
 30cc	fortune #30
 30cd	fortune #31
 30ce	fortune #32
@@ -173,32 +173,10 @@ Fortunes
 30dc	fortune #46
 30dd	fortune #47
 30de	fortune #48
-30df	fortune #49
+30df	fortune #49 (Hero's Boots)
 30e0	fortune #50 (Fi Mask)
 
 Fortune Key
-1-Up Mushroom	      #24
-? Block	            Fortune Cookie #25
-Arwing	            Fortune Cookie #36
-Bad Bro's Stache	  Fortune Cookie #44
-Big Bro's Mustache	Fortune Cookie #45
-Bill Blaster	      Fortune Cookie #28
-Block	              Fortune Cookie #17
-Block Floor	        Fortune Cookie #02
-Blue Falcon	        Fortune Cookie #34
-Blue Pikmin	        Fortune Cookie #14
-Coin	              Fortune Cookie #18
-Fi Mask	            Fortune Cookie #50
-Fire Bar	          Fortune Cookie #27
-Fire Flower	        Fortune Cookie #20
-
-
-
-
-Hero's Boots	      Fortune Cookie #49
-Hero's Cap	        Fortune Cookie #08
-Hero's Clothes	    Fortune Cookie #03
-Hero's Pants	      Fortune Cookie #05
 Kart	              Fortune Cookie #32
 Majora's Mask	      Fortune Cookie #09
 Master Sword	      Fortune Cookie #35
@@ -228,4 +206,3 @@ Varia Suit Shoes	  Fortune Cookie #43
 Virtual Boy	        Fortune Cookie #40
 Wii Balance Board	  Fortune Cookie #41
 Yellow Pikmin	      Fortune Cookie #15
-Yoshi's Egg	        Fortune Cookie #29
