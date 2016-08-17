@@ -41,4 +41,4 @@ Fav. Environment
 0070    Money Tree
 003e    Apple Tree
 009D    Pattern
-8000    Invalid
+207d    Train Station Locker
