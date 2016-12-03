@@ -15,30 +15,32 @@ Favorites
 308c    Fountain Firework
 
 Fav. Handhelds
-3042    Gold Net
-3046    Gold Rod
-304A    Gold Shovel
-304E    Golden Can
-3052    Golden Slingshot
-303E    Gold Axe
-3054    Toy Hammer
-308b    tweeter
-307d    beans
+3353    Gold Net
+3357    Gold Rod
+335b    Gold Shovel
+335f    Golden Can
+3363    Golden Slingshot
+334f    Gold Axe
+3365    Toy Hammer
+339e    tweeter
+338e    beans
 
 Fav. Vegetation
 2053    gold-rose bag
 2051    black-rose bag
 2052    blue-rose bag
-28ae    Jacob's ladder
+2958    Jacob's ladder
+2959    lucky clovers
 
 Fav. Hats
-27c9    royal crown
-27ca    crown
+285b    royal crown
+285c    crown
 
 Fav. Environment
 2001    Apple
-2018    Apple Basket
+2018    Apples
 0070    Money Tree
 003e    Apple Tree
-009D    Pattern
-207d    Train Station Locker
+009d    Pattern
+2081    train station locker (1)
+2082    train station locker (2)
