@@ -1,19 +1,24 @@
 Weeds / Rocks
 
 Weeds
-007C	Weed 1
-007D	Weed 2
-007E	Weed 3
-007F	Weed 4
-00CB	Dandelion Puff
-00CC	Clovers (Weed)
-00CD	Rafflesia
-00F8	Rafflesia (Wilted)
+007c weed
+007d weed (2)
+007e weed (3)
+007f weed (4)
+00c9 lucky clovers
+00ca dandelions
+00cb dandelion puffs
+00cc clovers (weed)
+00cd rafflesia
+00f8 rafflesia (wilted)
 
 Rocks
-0098	Rock 1
-0099	Rock 2
-009A	Rock 3
-009B	Rock 4
-009C	Rock 5
-009E	Hole
+0098 rock
+0099 rock (2)
+009a rock (3)
+009b rock (4)
+009c rock (5)
+
+Other
+009e hole
+009d Pattern
