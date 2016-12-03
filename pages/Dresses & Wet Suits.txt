@@ -1,112 +1,121 @@
 Dresses / Wet Suits
 
 Dresses
-260c	festive dress
-260d	muumuu
-260e	blue dotted dress
-260f	tan dogtooth dress
-2610	prim outfit
-2611	overall dress
-2612	pink lace-up dress
-2613	academy uniform
-2614	prep-school uniform
-2615	blue party dress
-2616	pink party dress
-2617	yellow dotted dress
-2618	pinafore
-2619	plaid cami dress
-261a	green dress
-261b	butterfly dress
-261c	gaudy dress
-261d	sea captain's coat
-261e	pink-zap suit
-261f	fleece dress
-2620	vogue dress
-2621	citrus gingham dress
-2622	floral knit dress
-2623	dreamy tank dress
-2624	silk bloom dress
-2625	pop bloom dress
-2626	blossom dress
-2627	loud bloom dress
-2628	rose tank dress
-2629	rose-sky tank dress
-262a	lotus tank dress
-262b	blue retro dress
-262c	orange retro dress
-262d	cool dress
-262e	moldy dress
-262f	blossoming dress
-2630	ribbon dress
-2631	blue lace-up dress
-2632	orange lace-up dress
-2633	green lace-up dress
-2634	lime dress
-2635	turnip dress
-2636	yodel dress
-2637	red riding dress
-2638	witch's robe
-2639	graduation gown
-263a	sky dress
-263b	alpinist dress
-263c	kimono
-263d	milkmaid dress
-263e	toga
-263f	cake dress
-2640	waitress dress
-2641	princess dress
-2642	fairy-tale dress
-2643	pink polka dress
-2644	palatial tank dress
-2645	poncho
-2646	fluffy dress
-2647	cat dress
-2648	plum coat
-2649	frock coat
-264a	casual outfit
-264b	maid dress
-264c	trench coat
-264d	pharaoh's outfit
-264e	bathrobe
-264f	polka-dot dress
-2650	patched dress
-2651	black-velvet dress
-2652	dazed dress
-2653	dogtooth dress
-2654	nurse's uniform
-2655	embroidered dress
-2656	Festivale tank dress
-2657	tartan-plaid outfit
-2658	sweater dress
-2659	shirtdress
-265a	red dress
-265b	yellow raincoat
-265c	dollhouse dress
-265d	festive-tree dress
-265e	ballet outfit
-265f	classic dress
-2660	U-R-here dress
-2661	natty dress
-2662	dapper dress
-2663	gumdrop dress
-2664	chima jeogori dress
-2665	spring kimono
-2666	caveman tank dress
-2667	star tank dress
-2668	twinkle tank dress
-2669	pastel-stripe dress
-266a	cat tank dress
-266b	cake tank dress
-266c	fluffy tank dress
-266d	lovely dress
+2682 festive dress
+2683 muumuu
+2684 blue dotted dress
+2685 tan dogtooth dress
+2686 prim outfit
+2687 overall dress
+2688 pink lace-up dress
+2689 academy uniform
+268a prep-school uniform
+268b blue party dress
+268c pink party dress
+268d yellow dotted dress
+268e pinafore
+268f plaid cami dress
+2690 green dress
+2691 butterfly dress
+2692 gaudy dress
+2693 sea captain's coat
+2694 pink-zap suit
+2695 fleece dress
+2696 vogue dress
+2697 citrus gingham dress
+2698 floral knit dress
+2699 dreamy tank dress
+269a silk bloom dress
+269b pop bloom dress
+269c blossom dress
+269d loud bloom dress
+269e rose tank dress
+269f rose-sky tank dress
+26a0 lotus tank dress
+26a1 blue retro dress
+26a2 orange retro dress
+26a3 cool dress
+26a4 moldy dress
+26a5 blossoming dress
+26a6 ribbon dress
+26a7 blue lace-up dress
+26a8 orange lace-up dress
+26a9 green lace-up dress
+26aa lime dress
+26ab turnip dress
+26ac yodel dress
+26ad red riding dress
+26ae witch's robe
+26af graduation gown
+26b0 sky dress
+26b1 alpinist dress
+26b2 kimono
+26b3 milkmaid dress
+26b4 toga
+26b5 cake dress
+26b6 waitress dress
+26b7 princess dress
+26b8 fairy-tale dress
+26b9 pink polka dress
+26ba palatial tank dress
+26bb poncho
+26bc fluffy dress
+26bd cat dress
+26be plum coat
+26bf frock coat
+26c0 casual outfit
+26c1 maid dress
+26c2 trench coat
+26c3 pharaoh's outfit
+26c4 bathrobe
+26c5 polka-dot dress
+26c6 patched dress
+26c7 black-velvet dress
+26c8 dazed dress
+26c9 dogtooth dress
+26ca nurse's uniform
+26cb embroidered dress
+26cc Festivale tank dress
+26cd tartan-plaid outfit
+26ce sweater dress
+26cf shirtdress
+26d0 red dress
+26d1 yellow raincoat
+26d2 dollhouse dress
+26d3 festive-tree dress
+26d4 ballet outfit
+26d5 classic dress
+26d6 U-R-here dress
+26d7 natty dress
+26d8 dapper dress
+26d9 gumdrop dress
+26da chima jeogori dress
+26db spring kimono
+26dc caveman tank dress
+26dd star tank dress
+26de twinkle tank dress
+26df pastel-stripe dress
+26e0 cat tank dress
+26e1 cake tank dress
+26e2 fluffy tank dress
+26e3 lovely dress
+26e4 blue ballet outfit **NEW**
+26e5 musician's outfit **NEW**
+26e6 Princess Zelda dress **NEW**
+26e7 Marie dress **NEW**
+26e8 Hello Kitty dress **NEW**
+26e9 My Melody dress **NEW**
+26ea Kiki and Lala dress **NEW**
+26eb Pompompurin dress **NEW**
+26ec Flower Fairy dress **NEW**
 
 Wet Suits
-266e	rental wet suit
-266f	black wet suit
-2670	pink wet suit
-2671	striped wet suit
-2672	green wet suit
-2673	orange wet suit
-2674	red wet suit
-2675	white wet suit
-2676	blue wet suit
+26ed rental wet suit
+26ee black wet suit
+26ef pink wet suit
+26f0 striped wet suit
+26f1 green wet suit
+26f2 orange wet suit
+26f3 red wet suit
+26f4 white wet suit
+26f5 blue wet suit
