@@ -1,176 +1,190 @@
-Nook Inventory
-30fe	red flowers
-30ff	white flowers
-3100	yellow flowers
-3101	tulips
-3102	pansies
-3103	cosmos
-3104	roses
-3105	red mailbox
-3106	metal mailbox
-3107	blue mailbox
-3108	yellow mailbox
-3109	orange mailbox
-310a	green mailbox
-310b	golden mailbox
-310c	wooden mailbox
-310d	white mailbox
-310e	pink mailbox
-310f	zen mailbox
-3110	shabby mailbox
-3111	stainless mailbox
-3112	square mailbox
-3113	light-blue mailbox
-3114	cyan mailbox
-3115	mermaid mailbox
-3116	cabana mailbox
-3117	fairy-tale mailbox
-3118	royal mailbox
-3119	barrel mailbox
-311a	sweets mailbox
-311b	arched circle door
-311c	arched fish door
-311d	arched astro door
-311e	arched door
-311f	arched yellow door
-3120	arched metal door
-3121	arched patched door
-3122	arched sweets door
-3123	arched mermaid door
-3124	arched zen door
-3125	arched cabin door
-3126	arch fairy-tale door
-3127	arched brown door
-3128	arched green door
-3129	arched heavy door
-312a	arched blue door
-312b	arched beige door
-312c	arched imperial door
-312d	arched pink door
-312e	arched kiddie door
-312f	arched bamboo door
-3130	arched golden door
-3131	basic door
-3132	fish door
-3133	astro door
-3134	classic door
-3135	yellow door
-3136	metal door
-3137	patched door
-3138	sweets door
-3139	mermaid door
-313a	zen door
-313b	cabin door
-313c	fairy-tale door
-313d	brown door
-313e	green door
-313f	heavy door
-3140	blue door
-3141	beige door
-3142	imperial door
-3143	pink door
-3144	kiddie door
-3145	bamboo door
-3146	red roof
-3147	green-tile roof
-3148	blue-shingle roof
-3149	astro roof
-314a	kiddie roof
-314b	black modern roof
-314c	straw-thatched roof
-314d	black-tile roof
-314e	fairy-tale roof
-314f	ranch roof
-3150	shanty roof
-3151	concrete roof
-3152	sweets roof
-3153	white roof
-3154	purple-shingle roof
-3155	black-straw roof
-3156	mermaid roof
-3157	simple blue roof
-3158	purple roof
-3159	pink roof
-315a	black roof
-315b	yellow roof
-315c	fuchsia roof
-315d	black-shingle roof
-315e	brown roof
-315f	grass roof
-3160	stone roof
-3161	mint fairy-tale roof
-3162	uneven stone roof
-3163	simple green roof
-3164	simple gray roof
-3165	golden roof
-3166	blue roof
-3167	yellow roof
-3168	green roof
-3169	rope fence
-316a	picket fence
-316b	country fence
-316c	hedge
-316d	pink mermaid fence
-316e	blue mermaid fence
-316f	red-brick fence
-3170	gray-brick fence
-3171	pink fence
-3172	fairy-tale fence
-3173	corral fence
-3174	curvy fence
-3175	blue fence
-3176	fancy fence
-3177	zen fence
-3178	barbed-wire fence
-3179	sweets fence
-317a	concrete fence
-317b	shanty fence
-317c	bamboo fence
-317d	sculpted hedge
-317e	cinder-block wall
-317f	golden fence
-3180	brick exterior
-3181	exotic exterior
-3182	cobblestone exterior
-3183	astro exterior
-3184	kiddie exterior
-3185	simple exterior
-3186	cabana exterior
-3187	zen exterior
-3188	fairy-tale exterior
-3189	cabin exterior
-318a	shanty exterior
-318b	concrete exterior
-318c	sweets exterior
-318d	white-brick exterior
-318e	chalet exterior
-318f	brown-brick exterior
-3190	mermaid exterior
-3191	red-barn exterior
-3192	blue chalet exterior
-3193	pink exterior
-3194	blue exterior
-3195	orange exterior
-3196	garden exterior
-3197	yellow exterior
-3198	white exterior
-3199	stucco exterior
-319a	stone exterior
-319b	melon exterior
-319c	earthy exterior
-319d	fancy exterior
-319e	black exterior
-319f	golden exterior
-31a0	colorful gravel
-31a1	stone pavement
-31a2	brick pavement
-31a3	pebble pavement
-31a4	square pavement
-31a5	concrete pavement
-31a6	blue-brick pavement
-31a7	pink pavement
-31a8	brown pavement
-31a9	mansion
-31aa	zen castle
-31ab	castle
-31ac	modern house
+Only Inside
+
+HRA Exhibitation (Only Inside)
+3426 red mailbox
+3427 metal mailbox
+3428 blue mailbox
+3429 yellow mailbox
+342a orange mailbox
+342b green mailbox
+342c golden mailbox
+342d wooden mailbox
+342e white mailbox
+342f pink mailbox
+3430 zen mailbox
+3431 shabby mailbox
+3432 stainless mailbox
+3433 square mailbox
+3434 light-blue mailbox
+3435 cyan mailbox
+3436 mermaid mailbox
+3437 cabana mailbox
+3438 fairy-tale mailbox
+3439 royal mailbox
+343a barrel mailbox
+343b sweets mailbox
+343c arched circle door
+343d arched fish door
+343e arched astro door
+343f arched door
+3440 arched yellow door
+3441 arched metal door
+3442 arched patched door
+3443 arched sweets door
+3444 arched mermaid door
+3445 arched zen door
+3446 arched cabin door
+3447 arch fairy-tale door
+3448 arched brown door
+3449 arched green door
+344a arched heavy door
+344b arched blue door
+344c arched beige door
+344d arched imperial door
+344e arched pink door
+344f arched kiddie door
+3450 arched bamboo door
+3451 arched golden door
+3452 basic door
+3453 fish door
+3454 astro door
+3455 classic door
+3456 yellow door
+3457 metal door
+3458 patched door
+3459 sweets door
+345a mermaid door
+345b zen door
+345c cabin door
+345d fairy-tale door
+345e brown door
+345f green door
+3460 heavy door
+3461 blue door
+3462 beige door
+3463 imperial door
+3464 pink door
+3465 kiddie door
+3466 bamboo door
+3467 red roof
+3468 green-tile roof
+3469 blue-shingle roof
+346a astro roof
+346b kiddie roof
+346c black modern roof
+346d straw-thatched roof
+346e black-tile roof
+346f fairy-tale roof
+3470 ranch roof
+3471 shanty roof
+3472 concrete roof
+3473 sweets roof
+3474 white roof
+3475 purple-shingle roof
+3476 black-straw roof
+3477 mermaid roof
+3478 simple blue roof
+3479 purple roof
+347a pink roof
+347b black roof
+347c yellow roof
+347d fuchsia roof
+347e black-shingle roof
+347f brown roof
+3480 grass roof
+3481 stone roof
+3482 mint fairy-tale roof
+3483 uneven stone roof
+3484 simple green roof
+3485 simple gray roof
+3486 golden roof
+3487 blue roof
+3488 yellow roof
+3489 green roof
+348a rope fence
+348b picket fence
+348c country fence
+348d hedge
+348e pink mermaid fence
+348f blue mermaid fence
+3490 red-brick fence
+3491 gray-brick fence
+3492 pink fence
+3493 fairy-tale fence
+3494 corral fence
+3495 curvy fence
+3496 blue fence
+3497 fancy fence
+3498 zen fence
+3499 barbed-wire fence
+349a sweets fence
+349b concrete fence
+349c shanty fence
+349d bamboo fence
+349e sculpted hedge
+349f cinder-block wall
+34a0 golden fence
+34a1 brick exterior
+34a2 exotic exterior
+34a3 cobblestone exterior
+34a4 astro exterior
+34a5 kiddie exterior
+34a6 simple exterior
+34a7 cabana exterior
+34a8 zen exterior
+34a9 fairy-tale exterior
+34aa cabin exterior
+34ab shanty exterior
+34ac concrete exterior
+34ad sweets exterior
+34ae white-brick exterior
+34af chalet exterior
+34b0 brown-brick exterior
+34b1 mermaid exterior
+34b2 red-barn exterior
+34b3 blue chalet exterior
+34b4 pink exterior
+34b5 blue exterior
+34b6 orange exterior
+34b7 garden exterior
+34b8 yellow exterior
+34b9 white exterior
+34ba stucco exterior
+34bb stone exterior
+34bc melon exterior
+34bd earthy exterior
+34be fancy exterior
+34bf black exterior
+34c0 golden exterior
+34c1 colorful gravel
+34c2 stone pavement
+34c3 brick pavement
+34c4 pebble pavement
+34c5 square pavement
+34c6 concrete pavement
+34c7 blue-brick pavement
+34c8 pink pavement
+34c9 brown pavement
+34ca mansion
+34cb zen castle
+34cc castle
+34cd modern house
+
+Unused Furniture (Only Inside)
+2078 K.K. DJ table
+2079 museum stand (fossil)
+207a museum stand (small)
+207b museum stand (big)
+207c Reese's stand (small)
+207d Reese's stand (big)
+207e moving boxes (1)
+207f moving boxes (2)
+2080 moving boxes (3)
+2081 train station locker (1)
+2082 train station locker (2)
+2083 sold out
+2084 sold out (Gracie)
+2085 sold out (Reese)
+2086 sold out (invisible spot)
+2087 sold out (invisible spot)
+2088 sold out (Redd)
