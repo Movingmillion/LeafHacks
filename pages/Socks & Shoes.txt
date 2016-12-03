@@ -1,103 +1,116 @@
 Socks / Shoes
 
 Socks
-26f3	crocheted tights
-26f4	brown-stripe socks
-26f5	black stockings
-26f6	heart-print tights
-26f7	rainbow tights
-26f8	black ankle socks
-26f9	star tights
-26fa	purple-stripe tights
-26fb	dress socks
-26fc	gray tights
-26fd	navy socks
-26fe	hiking gaiters
-26ff	white-lace socks
-2700	tube socks
-2701	argyle socks
-2702	bobby socks
-2703	red tights
-2704	purple star socks
-2705	gray leggings
-2706	white socks
-2707	black tights
-2708	beige tights
-2709	colorful socks
-270a	checkered socks
-270b	brown socks
-270c	argyle tights
-270d	green-stripe socks
-270e	leg warmers
-270f	white ankle socks
-2710	soccer socks
-2711	black leggings
-2712	polka-dot socks
-2713	white stockings
-2714	gray socks
-2715	blue-stripe tights
-2716	green tights
+2777 crocheted tights
+2778 brown-stripe socks
+2779 black stockings
+277a heart-print tights
+277b rainbow tights
+277c black ankle socks
+277d star tights
+277e purple-stripe tights
+277f dress socks
+2780 gray tights
+2781 navy socks
+2782 hiking gaiters
+2783 white-lace socks
+2784 tube socks
+2785 argyle socks
+2786 bobby socks
+2787 red tights
+2788 purple star socks
+2789 gray leggings
+278a white socks
+278b black tights
+278c beige tights
+278d colorful socks
+278e checkered socks
+278f brown socks
+2790 argyle tights
+2791 green-stripe socks
+2792 leg warmers
+2793 white ankle socks
+2794 soccer socks
+2795 black leggings
+2796 polka-dot socks
+2797 white stockings
+2798 gray socks
+2799 blue-stripe tights
+279a green tights
+279b Callie tights **NEW**
+279c Marie tights **NEW**
+279d Kiki and Lala socks **NEW**
+279e red striped socks **NEW**
 
 Shoes
-2717	blue sneakers
-2718	white patent shoes
-2719	purple pumps
-271a	shearling boots
-271b	basketball shoes
-271c	Santa boots
-271d	hero's boots
-271e	lace-up boots
-271f	white leather shoes
-2720	hiking boots
-2721	kimono sandals
-2722	snow boots
-2723	flip-flops
-2724	green polka pumps
-2725	leopard pumps
-2726	tropical sandals
-2727	polka-dot rain boots
-2728	yellow rain boots
-2729	cleats
-272a	wooden clogs
-272b	brown loafers
-272c	slippers
-272d	monochrome shoes
-272e	green sandals
-272f	tasseled loafers
-2730	purple high-tops
-2731	flower loafers
-2732	Patched Shoes
-2733	clogs
-2734	climbing shoes
-2735	gladiator sandals
-2736	ninja sandals
-2737	steel-toed boots
-2738	zap boots
-2739	black rain boots
-273a	stripe shoes
-273b	ballet slippers
-273c	cowboy boots
-273d	jester's shoes
-273e	school shoes
-273f	armor shoes
-2740	gold-armor shoes
-2741	blue wrestling shoes
-2742	red wrestling shoes
-2743	Varia Suit shoes
-2744	green buckled shoes
-2745	black loafers
-2746	pink slip-ons
-2747	blue pumps
-2748	colorful sneakers
-2749	red boat shoes
-274a	red shoes
-274b	orange sandals
-274c	brown slip-ons
-274d	yellow buckled shoes
-274e	purple dot shoes
-274f	black pumps
-2750	green-stripe shoes
-2751	pink sneakers
-2752	brown pumps
-2753	yellow sneakers
-2754	orange shoes
+279f blue sneakers
+27a0 white patent shoes
+27a1 purple pumps
+27a2 shearling boots
+27a3 basketball shoes
+27a4 Santa boots
+27a5 hero's boots
+27a6 lace-up boots
+27a7 white leather shoes
+27a8 hiking boots
+27a9 kimono sandals
+27aa snow boots
+27ab flip-flops
+27ac green polka pumps
+27ad leopard pumps
+27ae tropical sandals
+27af polka-dot rain boots
+27b0 yellow rain boots
+27b1 cleats
+27b2 wooden clogs
+27b3 brown loafers
+27b4 slippers
+27b5 monochrome shoes
+27b6 green sandals
+27b7 tasseled loafers
+27b8 purple high-tops
+27b9 flower loafers
+27ba patched shoes
+27bb clogs
+27bc climbing shoes
+27bd gladiator sandals
+27be ninja sandals
+27bf steel-toed boots
+27c0 zap boots
+27c1 black rain boots
+27c2 stripe shoes
+27c3 ballet slippers
+27c4 cowboy boots
+27c5 jester's shoes
+27c6 school shoes
+27c7 armor shoes
+27c8 gold-armor shoes
+27c9 blue wrestling shoes
+27ca red wrestling shoes
+27cb Varia Suit shoes
+27cc green buckled shoes
+27cd black loafers
+27ce pink slip-ons
+27cf blue pumps
+27d0 colorful sneakers
+27d1 red boat shoes
+27d2 red shoes
+27d3 orange sandals
+27d4 brown slip-ons
+27d5 yellow buckled shoes
+27d6 purple dot shoes
+27d7 black pumps
+27d8 green-stripe shoes
+27d9 pink sneakers
+27da brown pumps
+27db yellow sneakers
+27dc orange shoes
+27dd Callie shoes **NEW**
+27de Marie shoes **NEW**
+27df Hello Kitty shoes **NEW**
+27e0 My Melody shoes **NEW**
+27e1 Kiki and Lala shoes **NEW**
+27e2 Pompompurin shoes **NEW**
+27e3 Cinnamoroll shoes **NEW**
+27e4 green loafers **NEW**
+27e5 Flower Fairy boots **NEW**
