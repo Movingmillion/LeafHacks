@@ -1,18 +1,18 @@
 Favorites
 7FFE    Nothing
-20A7    100 Bells
-2112    99,000 Bells
-2284    100 turnips
-2098    famous mushroom
-307b    coffee
-307c    sparkling cider
-209b    tricky pitfall seed
-209a    pitfall seed
-209c    gold nugget
-209d    silver nugget
-2267    SMB3 paper
-30AE    Fortune Cookie
-308c    Fountain Firework
+20ac    100 Bells
+2117    99,000 Bells
+228c    100 turnips
+209d    famous mushroom
+338c    coffee
+338d    fizzy apple juice
+20a0    tricky pitfall seed
+209f    pitfall seed
+20a1    gold nugget
+20a2    silver nugget
+226c    SMB3 paper
+33c8    Fortune Cookie
+339f    Fountain Firework
 
 Fav. Handhelds
 3353    Gold Net
