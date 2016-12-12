@@ -13,6 +13,7 @@ Favorites
 226c    SMB3 paper
 33c8    Fortune Cookie
 339f    Fountain Firework
+5427    Infinite Present
 
 Fav. Handhelds
 3353    Gold Net
