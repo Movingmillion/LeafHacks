@@ -16,4 +16,6 @@ Type in the ID of the item you want and press X + D Pad Right to write that item
 [ACNL Music Swap](https://gbatemp.net/threads/wip-animal-crossing-new-leaf-music-swap.403386/)  
 [ACNL Rom Hacking](https://gbatemp.net/threads/animal-crossing-new-leaf-rom-hacking.401093/)  
 [Animal Crossing: Wild Leaf](https://gbatemp.net/threads/release-animal-crossing-wild-leaf.402337/)  
+# Credits:  
+Special Thanks to marc_max, RyDog, and everybody else who helped support and create ACNL hacks :)  
 # [goo.gl/Q5vw3N](http://goo.gl/Q5vw3N)
